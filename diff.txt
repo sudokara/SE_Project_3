@@ -1,0 +1,5 @@
+--- Observation/watch.txt
++++ Observation/watch2.txt
+@@ -1,2 +1,2 @@
+ hi
+-hi+bye
