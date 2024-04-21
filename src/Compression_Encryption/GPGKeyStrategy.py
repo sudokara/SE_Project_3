@@ -1,4 +1,5 @@
 from IKeyStrategy import IKeyStrategy
+from GPGSingleton import GPGSingleton
 import gnupg
 import subprocess
 
@@ -9,9 +10,9 @@ class GPGKeyStrategy(IKeyStrategy):
     """
     def __init__(self, gpghome:str=None):
         if gpghome:
-            self.__gpg = gnupg.GPG(gnupghome=gpghome)
+            self.__gpg = GPGSingleton(gpghome).get_gpg()
         else:
-            self.__gpg = gnupg.GPG()
+            self.__gpg = GPGSingleton().get_gpg()
 
     def generate_key(self, *args, **kwargs):
         print("Follow the process to generate a gpg key. Use the default if unsure.")

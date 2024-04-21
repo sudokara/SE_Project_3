@@ -22,6 +22,12 @@ class CEManager():
 
     def compress(self, file_path, *args, **kwargs):
         return self.__compressionStrategy.compress(file_path, *args, **kwargs)
+    
+    def decompress(self, file_path, *args, **kwargs):
+        return self.__compressionStrategy.decompress(file_path, *args, **kwargs)
 
     def encrypt(self, file_path, key, *args, **kwargs):
         return self.__encryptionStrategy.encrypt(file_path, key, *args, **kwargs)
+    
+    def decrypt(self, file_path, key, *args, **kwargs):
+        return self.__encryptionStrategy.decrypt(file_path, key, *args, **kwargs)
