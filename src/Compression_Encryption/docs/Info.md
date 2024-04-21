@@ -20,4 +20,4 @@ in the directory where the script is run.
 - We use GPG to perform encryption. The concrete strategy for `IEncryptionStrategy` is `GPGEncryptionStrategy`. The concrete strategy for `IKeyStrategy` is `GPGKeyStrategy`. Also, we need to ensure a single `gpg` object is used across encryption and key management. A singleton `GPGSingleton.py` is used to initialize gpg with desired config.
 
 ## Manager
-The `CEManager` owns the compression and encryption strategy that will be used. It is the context class for the strategy pattern for both compression and encryption algorithms.
+The `CEManager` owns the compression and encryption strategy that will be used. It is the context class for the strategy pattern for both compression and encryption algorithms. It abstracts away the use of the key manager from the caller.

@@ -1,0 +1,29 @@
+@startuml "CompressionStrategy"
+
+interface ICompressionStrategy {
+    compress(file_path)
+    decompress(file_path)
+}
+
+class NoCompressionStrategy implements ICompressionStrategy {
+    compress(file_path)
+    decompress(file_path)
+}
+
+class TarCompressionStrategy implements ICompressionStrategy {
+    compress(file_path)
+    decompress(file_path)
+}
+
+class CEManager {
+    compression_strategy: ICompressionStrategy
+    setCompressionStrategy(strategy: ICompressionStrategy)
+    compress(file_path)
+    decompress(file_path)
+    encrypt(file_path)
+    decrypt(file_path)
+}
+
+CEManager o-- "1" ICompressionStrategy
+
+@enduml

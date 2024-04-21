@@ -1,0 +1,57 @@
+@startuml "EncryptionSubsystem"
+
+class SingletonMeta {
+    _instances
+    _lock
+    __call__(cls, *args, **kwargs)
+}
+
+class KeyManager extends SingletonMeta {
+    __init__(self)
+    generate_key(self, *args, **kwargs)
+    get_key(self, *args, **kwargs)
+}
+
+interface IEncryptionStrategy {
+    __init__(self, encryption_dir, decryption_dir)
+    encrypt(self, file_path, key, *args, **kwargs)
+    decrypt(self, file_path, key, *args, **kwargs)
+}
+
+class GPGEncryptionStrategy implements IEncryptionStrategy {
+    encrypt(self, file_path, key, *args, **kwargs)
+    decrypt(self, file_path, key, *args, **kwargs)
+}
+
+class GPGSingleton extends SingletonMeta {
+    __init__(self, gpghome)
+    get_gpg(self)
+}
+
+interface IKeyStrategy {
+    generate_key(self, *args, **kwargs)
+    get_key(self, *args, **kwargs)
+}
+
+class GPGKeyStrategy implements IKeyStrategy {
+    __init__(self, gpghome)
+    generate_key(self, *args, **kwargs)
+    get_kry(self, *args, **kwargs)
+}
+
+class CEManager {
+    compression_strategy: ICompressionStrategy
+    setCompressionStrategy(strategy: ICompressionStrategy)
+    compress(file_path)
+    decompress(file_path)
+    encrypt(file_path)
+    decrypt(file_path)
+}
+
+CEManager o-- KeyManager
+CEManager o-- IEncryptionStrategy
+KeyManager o-- IKeyStrategy
+GPGKeyStrategy --> GPGSingleton: <<uses>>
+GPGEncryptionStrategy --> GPGSingleton: <<uses>>
+
+@enduml 
