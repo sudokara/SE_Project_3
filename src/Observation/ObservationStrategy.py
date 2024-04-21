@@ -10,12 +10,12 @@ class ObservationStrategy(ABC):
     def observe(self, state):
         pass
     
-    '''
-    Close the observer
-    '''
-    @abstractmethod
-    def close(self):
-        pass
+    # '''
+    # Close the observer
+    # '''
+    # @abstractmethod
+    # def close(self):
+    #     pass
     
     '''
     Start the observer
