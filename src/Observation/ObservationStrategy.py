@@ -1,7 +1,10 @@
 from abc import ABC, abstractmethod
+import sys
+
+sys.path.append("..")
+from Path import Path
 
 class ObservationStrategy(ABC):
-    
     
     '''
     Observe the state and also call the backup function if state has changed
@@ -10,16 +13,16 @@ class ObservationStrategy(ABC):
     def observe(self, state):
         pass
     
-    # '''
-    # Close the observer
-    # '''
-    # @abstractmethod
-    # def close(self):
-    #     pass
-    
     '''
     Start the observer
     '''
     @abstractmethod
-    def start(self):
+    def start(self, state: Path):
+        pass
+
+    '''
+    Stop the observer
+    '''
+    @abstractmethod
+    def stop(self):
         pass

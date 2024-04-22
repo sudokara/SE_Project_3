@@ -1,6 +1,7 @@
 from .ObservationStrategy import ObservationStrategy
 import os
 import sys
+
 sys.path.append("..")
 from Path import Path
 import pyinotify
@@ -39,10 +40,10 @@ class EventDrivenStrategy(ObservationStrategy):
     def remove_watch(self, path):
         wd = self.wm.get_wd_by_path(path)
         if wd:
-            self.wm.rm_watch(wd)    
-
+            self.wm.rm_watch(wd)
 
     def stop(self):
         self.notifier.stop()
-        for path in self.state.paths:
-            self.remove_watch(path)
+        # sys.exit(0)
+        # for path in self.state.paths:
+        #     self.remove_watch(path)

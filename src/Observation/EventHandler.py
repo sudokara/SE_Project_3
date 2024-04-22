@@ -10,12 +10,14 @@ class EventHandler(pyinotify.ProcessEvent):
     def backup(self, absolutePath):
 
         if os.path.isdir(absolutePath):
-            print("Backing up directory: ", absolutePath)
+            pass
+            # print("Backing up directory: ", absolutePath)
 
             # backup the directory 
             #  function(absolutePath, False)
         else:
-            print("Backing up file: ", absolutePath)
+            pass
+            # print("Backing up file: ", absolutePath)
             
             # backup the file
             # function(absolutePath, True)
@@ -34,21 +36,32 @@ class EventHandler(pyinotify.ProcessEvent):
         
 
     def process_IN_MOVED_FROM(self, event):
-        print("IN_MOVED_FROM: ", event.pathname)
-        self.backup(event.pathname)
+        # print("IN_MOVED_FROM: ", event.pathname)
+        # self.backup(event.pathname)
+
+        parent_directory = os.path.dirname(event.pathname)
+        self.backup(parent_directory)
 
     def process_IN_MOVED_TO(self, event):
-        print("IN_MOVED_TO: ", event.pathname)
-        self.backup(event.pathname)
+        # print("IN_MOVED_TO: ", event.pathname)
+        # self.backup(event.pathname)
+
+        parent_directory = os.path.dirname(event.pathname)
+        self.backup(parent_directory)
 
     def process_IN_CREATE(self, event):
-        print("IN_CREATE: ", event.pathname)
-        self.backup(event.pathname)
+        # print("IN_CREATE: ", event.pathname)
+
+        parent_directory = os.path.dirname(event.pathname)
+        self.backup(parent_directory)
             
     def process_IN_DELETE(self, event):
-        print("IN_DELETE: ", event.pathname)
-        self.backup(event.pathname)
+        # print("IN_DELETE: ", event.pathname)
+        # self.backup(event.pathname)
+
+        parent_directory = os.path.dirname(event.pathname)
+        self.backup(parent_directory)
         
     def process_IN_MODIFY(self, event):
-        print("IN_MODIFY: ", event.pathname)
+        # print("IN_MODIFY: ", event.pathname)
         self.backup(event.pathname)

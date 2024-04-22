@@ -1,26 +1,31 @@
-from ObservationStrategy import ObservationStrategy
+from .ObservationStrategy import ObservationStrategy
 from time import time
-from . import Path
-from EventHandler import EventHandler
+import sys
+sys.path.append("..")
+from Path import Path
+from .EventHandler import EventHandler
 
-class Periodic(ObservationStrategy):
+class PeriodicStrategy(ObservationStrategy):
     def __init__(self, period):
         self.period = period
         self.time = 0
         self.observing = False
         self.handler = EventHandler()
     
-    def observe(self, state: Path):
-        files = state.get_all_files()
-        for f in files:
-            if self.handler.check_diff(f): # check if a certain amount of time has passed since last backup
-                self.handler.backup(f)
+    # def observe(self):
+        # for f in self.state.paths:
+        #     if self.handler.check_diff(f): # check if a certain amount of time has passed since last backup
+        #         self.handler.backup(f)
             
-    def close(self):
-        self.observing = False
-    
     def start(self, state: Path): # depending on how master works, add a thread to handle sleep
         self.observing = True
+        self.state = state
         while self.observing:
-            self.observe(state)
+            # self.observe()
+            self.handler.backup(self.state.watch_directory)
             time.sleep(self.period)
+
+    def stop(self):
+        self.observing = False
+        sys.exit(0)
+    
