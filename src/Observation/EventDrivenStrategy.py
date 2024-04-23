@@ -33,14 +33,14 @@ class EventDrivenStrategy(ObservationStrategy):
         self.notifier.loop()
 
 
-    def add_watch(self, path):
-        self.wm.add_watch(path, self.mask, rec=False, auto_add=True)
+    # def add_watch(self, path):
+    #     self.wm.add_watch(path, self.mask, rec=False, auto_add=True)
 
 
-    def remove_watch(self, path):
-        wd = self.wm.get_wd_by_path(path)
-        if wd:
-            self.wm.rm_watch(wd)
+    # def remove_watch(self, path):
+    #     wd = self.wm.get_wd_by_path(path)
+    #     if wd:
+    #         self.wm.rm_watch(wd)
 
     def stop(self):
         self.notifier.stop()

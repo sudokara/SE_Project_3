@@ -12,5 +12,5 @@ class WatchDirComponent(ABC):
     Get the total size of the files in the directory
     '''
     @abstractmethod
-    def get_storage_size(self):
+    def get_size(self):
         pass

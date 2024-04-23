@@ -11,5 +11,11 @@ class WatchDirLeaf(WatchDirComponent):
     def get_num_files(self):
         return 1
 
-    def get_storage_size(self):
+    def get_size(self):
         return self.size
+    
+    def get_filename(self):
+        return self.filename
+    
+    def print(self):
+        print(self.filename, " (size:", self.size, ")")

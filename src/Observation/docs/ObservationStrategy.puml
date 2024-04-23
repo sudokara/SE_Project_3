@@ -1,0 +1,40 @@
+@startuml 
+
+Interface ObservationStrategy <<Strategy>> {
+    + start(state:Path): void
+    + stop(): void
+}
+
+class EventDrivenStrategy <<ConcreteStrategy>> {
+    + start(state:Path): void
+    + stop(): void
+    + observe(): void
+}
+
+class PeriodicStrategy <<ConcreteStrategy>> {
+    + start(state:Path): void
+    + stop(): void
+}
+
+class CLI <<Context>> {
+    + set_observation_strategy(strategy:ObservationStrategy): void
+    + start_observing(): void
+    + stop_observing(): void
+}
+
+class Client {
+    + main(): void
+}
+
+Client -u-> CLI
+Client .right.> EventDrivenStrategy
+Client ..> PeriodicStrategy
+
+ObservationStrategy <|.. EventDrivenStrategy
+ObservationStrategy <|.. PeriodicStrategy
+
+CLI o-right-> ObservationStrategy
+
+
+
+@enduml

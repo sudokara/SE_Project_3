@@ -1,0 +1,32 @@
+@startuml
+
+Interface WatchDirComponent <<Component>> {
+    + get_num_files(): int
+    + get_size(): long
+}
+
+class WatchDirComposite <<Composite>> {
+    - contents: List<WatchDirComponent>
+
+    + get_num_files(): int
+    + get_size(): long
+}
+
+class WatchDirLeaf <<Leaf>> {
+    + get_num_files(): int
+    + get_size(): long
+}
+
+class EventHandler <<Client>> {
+
+}
+
+EventHandler --> WatchDirComponent
+
+WatchDirComponent <|.. WatchDirLeaf
+(WatchDirComponent, WatchDirLeaf) .. WatchDirComposite
+
+WatchDirComponent <--o WatchDirComposite
+
+
+@enduml
