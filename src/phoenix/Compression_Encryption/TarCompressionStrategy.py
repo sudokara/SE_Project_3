@@ -1,4 +1,4 @@
-from ICompressionStrategy import ICompressionStrategy
+from phoenix.Compression_Encryption.ICompressionStrategy import ICompressionStrategy
 import tarfile
 import os
 import shutil

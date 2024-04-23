@@ -1,9 +1,10 @@
 import pyinotify
 import difflib
 import os
+import pandas as pd
 
-from WatchDirStructure.WatchDirComposite import WatchDirComposite
-from WatchDirStructure.WatchDirLeaf import WatchDirLeaf
+from phoenix.Observation.WatchDirStructure.WatchDirComposite import WatchDirComposite
+from phoenix.Observation.WatchDirStructure.WatchDirLeaf import WatchDirLeaf
 from phoenix.utils.Broker import Broker
 
 class EventHandler(pyinotify.ProcessEvent):
@@ -11,33 +12,37 @@ class EventHandler(pyinotify.ProcessEvent):
     def __init__(self):
         super().__init__()
 
-    def backup(self, absolutePath):
+    def backup(self, absolutePath, maskname):
 
         if os.path.isdir(absolutePath):
-            # print("Backing up directory: ", absolutePath)
-
-            # backup the directory 
-            #  function(absolutePath, False)
-            Broker().backup(absolutePath, False)
+            broker = Broker()
+            encrypted_path = broker.backup(absolutePath, False)
 
             num_files_backing_up = WatchDirComposite(absolutePath).get_num_files()
-            size_backing_up = WatchDirComposite(absolutePath).get_storage_size()
-
-            print("Number of files backing up: ", num_files_backing_up)
-            print("Size of files backing up: ", size_backing_up)
+            size_backing_up = WatchDirComposite(absolutePath).get_size()
 
         else:
-            # print("Backing up file: ", absolutePath)
-            
-            # backup the file
-            # function(absolutePath, True)
-            Broker().backup(absolutePath, True)
+            print(maskname)
+
+            try:
+                broker = Broker()
+                encrypted_path = broker.backup(absolutePath, True)
+            except Exception as e:
+                print("Exception: ", e)
         
             num_files_backing_up = WatchDirLeaf(absolutePath).get_num_files()
-            size_backing_up = WatchDirLeaf(absolutePath).get_storage_size()
+            size_backing_up = WatchDirLeaf(absolutePath).get_size()
+        
 
-            print("Number of files backing up: ", num_files_backing_up)
-            print("Size of files backing up: ", size_backing_up)
+        new_data = pd.DataFrame({'Event Name': [maskname], 'Event Path': [absolutePath], 'No. of Files Backing Up': [num_files_backing_up], 'Size of Backup': [size_backing_up], 'Time': [pd.Timestamp.now()]})
+    
+        csv_file = 'log.csv'
+
+        # Check if the file exists
+        if not os.path.exists(csv_file):
+            new_data.to_csv(csv_file, index=False)
+        else:
+            new_data.to_csv(csv_file, mode='a', header=False, index=False)
         
 
     # def check_diff(self, file):
@@ -57,28 +62,28 @@ class EventHandler(pyinotify.ProcessEvent):
         # self.backup(event.pathname)
 
         parent_directory = os.path.dirname(event.pathname)
-        self.backup(parent_directory)
+        self.backup(parent_directory, "IN_MOVED_FROM")
 
     def process_IN_MOVED_TO(self, event):
         # print("IN_MOVED_TO: ", event.pathname)
         # self.backup(event.pathname)
 
         parent_directory = os.path.dirname(event.pathname)
-        self.backup(parent_directory)
+        self.backup(parent_directory, "IN_MOVED_TO")
 
     def process_IN_CREATE(self, event):
         # print("IN_CREATE: ", event.pathname)
 
         parent_directory = os.path.dirname(event.pathname)
-        self.backup(parent_directory)
+        self.backup(parent_directory, "IN_CREATE")
             
     def process_IN_DELETE(self, event):
         # print("IN_DELETE: ", event.pathname)
         # self.backup(event.pathname)
 
         parent_directory = os.path.dirname(event.pathname)
-        self.backup(parent_directory)
+        self.backup(parent_directory, "IN_DELETE")
         
     def process_IN_MODIFY(self, event):
         # print("IN_MODIFY: ", event.pathname)
-        self.backup(event.pathname)
+        self.backup(event.pathname, "IN_MODIFY")

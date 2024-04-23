@@ -1,11 +1,11 @@
-from .ObservationStrategy import ObservationStrategy
+from phoenix.Observation.ObservationStrategy import ObservationStrategy
 import os
 import sys
-
-sys.path.append("..")
-from Path import Path
 import pyinotify
-from EventHandler import EventHandler
+
+from phoenix.Path import Path
+from phoenix.Observation.EventHandler import EventHandler
+# sys.path.append("..")
 
 
 class EventDrivenStrategy(ObservationStrategy):

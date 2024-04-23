@@ -8,6 +8,7 @@ from multiprocessing import Process
 
 
 sys.path.append('..')
+from phoenix.Observation.OManager import OManager
 from phoenix.Observation.ObservationStrategy import ObservationStrategy
 from phoenix.Observation.EventDrivenStrategy import EventDrivenStrategy
 from phoenix.Observation.PeriodicStrategy import PeriodicStrategy
@@ -21,7 +22,8 @@ class CLI:
         with open('../config.json', 'r') as f:
             self.config = json.load(f)
             
-        self.strategy = EventDrivenStrategy() if self.config["strategy"] == "event-driven" else PeriodicStrategy()
+        # self.strategy = EventDrivenStrategy() if self.config["strategy"] == "event-driven" else PeriodicStrategy()
+        self.__oManager = OManager(PeriodicStrategy() if self.config["strategy"] == "periodic" else EventDrivenStrategy())
         self.drive = self.config["cloud-provider"]
         self.state = Path(self.config["watch-directories"])
         self.backup = False
@@ -206,7 +208,10 @@ class CLI:
             print("Stop backup before configuration")
             return
          
-        self.strategy = strategy
+        # self.strategy = strategy
+        self.config["strategy"] = "event-driven" if isinstance(strategy, EventDrivenStrategy) else "periodic"
+        self.__oManager.setObservationStrategy(strategy)
+
 
 
     def choose_cloud_provider(self, drive: str):
@@ -254,14 +259,14 @@ class CLI:
         self.backup = True
         print(BOLD1 + "\nMonitoring has started\n" + BOLD2)
         
-        self.process = Process(target=self.strategy.start, args=(self.state,))
+        self.process = Process(target=self.__oManager.start, args=(self.state,))
         self.process.start()
 
 
     def stop_observing(self):
 
         self.backup = False
-        self.strategy.stop()
+        self.__oManager.stop()
         self.process.terminate()
                 
         print(BOLD1 + "\nMonitoring has stopped\n" + BOLD2)

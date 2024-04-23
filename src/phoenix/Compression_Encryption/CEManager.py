@@ -1,7 +1,7 @@
 from abc import ABC, abstractmethod
-from ICompressionStrategy import ICompressionStrategy
-from IEncryptionStrategy import IEncryptionStrategy
-from KeyManager import KeyManager
+from phoenix.Compression_Encryption.ICompressionStrategy import ICompressionStrategy
+from phoenix.Compression_Encryption.IEncryptionStrategy import IEncryptionStrategy
+from phoenix.Compression_Encryption.KeyManager import KeyManager
 
 class CEManager():
     def __init__(self, compressionStrategy: ICompressionStrategy, encryptionStrategy: IEncryptionStrategy, keyManager: KeyManager):

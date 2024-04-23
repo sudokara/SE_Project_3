@@ -2,6 +2,7 @@ import os
     
 class Path:
     def __init__(self, watch_directory):
+        # print("inside path constructor")
         self.watch_directory = watch_directory # array of directories to watch
         self.files = self.get_all_files()
         self.folders = self.get_all_folders()
@@ -13,6 +14,7 @@ class Path:
             for root, dirs, files in os.walk(directory):
                 for f in files:
                     files_list.append(os.path.join(root, f))
+        # print("Files: ", files_list)
         return files_list
         
     

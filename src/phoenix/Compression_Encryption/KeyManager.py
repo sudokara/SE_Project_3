@@ -1,5 +1,5 @@
 from phoenix.utils.SingletonMeta import SingletonMeta
-from IKeyStrategy import IKeyStrategy
+from phoenix.Compression_Encryption.IKeyStrategy import IKeyStrategy
 
 class KeyManager(metaclass=SingletonMeta):
     """

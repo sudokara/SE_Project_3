@@ -16,24 +16,24 @@ class PeriodicStrategy <<ConcreteStrategy>> {
     + stop(): void
 }
 
-class CLI <<Context>> {
-    + set_observation_strategy(strategy:ObservationStrategy): void
-    + start_observing(): void
-    + stop_observing(): void
+class OManager <<Context>> {
+    + setObservationStrategy(strategy:ObservationStrategy): void
+    + start(): void
+    + stop(): void
 }
 
-class Client {
-    + main(): void
+class CLI <<Client>> {
 }
 
-Client -u-> CLI
-Client .right.> EventDrivenStrategy
-Client ..> PeriodicStrategy
+
+CLI -u-> OManager
+CLI .right.> EventDrivenStrategy
+CLI ..> PeriodicStrategy
 
 ObservationStrategy <|.. EventDrivenStrategy
 ObservationStrategy <|.. PeriodicStrategy
 
-CLI o-right-> ObservationStrategy
+OManager o-right-> ObservationStrategy
 
 
 

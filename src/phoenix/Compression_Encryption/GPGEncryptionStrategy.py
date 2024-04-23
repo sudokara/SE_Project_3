@@ -1,5 +1,5 @@
-from IEncryptionStrategy import IEncryptionStrategy
-from GPGSingleton import GPGSingleton
+from phoenix.Compression_Encryption.IEncryptionStrategy import IEncryptionStrategy
+from phoenix.Compression_Encryption.GPGSingleton import GPGSingleton
 import os
 import getpass
 

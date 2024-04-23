@@ -1,5 +1,5 @@
-from IKeyStrategy import IKeyStrategy
-from GPGSingleton import GPGSingleton
+from phoenix.Compression_Encryption.IKeyStrategy import IKeyStrategy
+from phoenix.Compression_Encryption.GPGSingleton import GPGSingleton
 import gnupg
 import subprocess
 

@@ -3,7 +3,7 @@ from time import time
 import sys
 sys.path.append("..")
 from Path import Path
-from EventHandler import EventHandler
+from phoenix.Observation.EventHandler import EventHandler
 
 class PeriodicStrategy(ObservationStrategy):
     def __init__(self, period):
