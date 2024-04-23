@@ -41,7 +41,7 @@ class GoogleDrive(UploadDownloadStrategy):
         
         new_data = pd.DataFrame({'File Name': [filename], 'File ID': [file_id], 'time': [pd.Timestamp.now()]})
         
-        csv_file = 'log.csv'
+        csv_file = 'gdrive_log.csv'
 
         # Check if the file exists
         if not os.path.exists(csv_file):
