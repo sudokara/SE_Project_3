@@ -9,7 +9,6 @@ class TarCompressionStrategy(ICompressionStrategy):
     """
     def compress(self, file_path, *args, **kwargs):
         if args and not args[0]:
-            print("here")
             output_file_names = []
 
             for root, dirs, files in os.walk(os.path.normpath(file_path)):
@@ -18,7 +17,7 @@ class TarCompressionStrategy(ICompressionStrategy):
                     output_file_name = os.path.join(self.compression_dir + f"/{root}-{file.replace('/', '-')}.tar.gz")
                     output_file_names.append(output_file_name)
                     with tarfile.open(output_file_name, "w:gz") as tar:
-                        tar.add(input_file_name, arcname=os.path.basename(file_path))
+                        tar.add(input_file_name, arcname=input_file_name.replace("/", "-"))
 
             return output_file_names
         else:
@@ -28,5 +27,6 @@ class TarCompressionStrategy(ICompressionStrategy):
             return output_file_name
 
     def decompress(self, file_path, *args, **kwargs):
+        output_filename = os.path.join(self.decompression_dir, os.path.basename(file_path).replace(".tar.gz", ""))
         shutil.unpack_archive(file_path, self.decompression_dir)
-        return os.path.join(self.decompression_dir, os.path.basename(file_path).replace(".tar.gz", ""))
+        return output_filename
