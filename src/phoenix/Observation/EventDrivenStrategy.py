@@ -5,7 +5,7 @@ import sys
 sys.path.append("..")
 from Path import Path
 import pyinotify
-from .EventHandler import EventHandler
+from EventHandler import EventHandler
 
 
 class EventDrivenStrategy(ObservationStrategy):

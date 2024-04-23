@@ -8,9 +8,9 @@ from multiprocessing import Process
 
 
 sys.path.append('..')
-from Observation.ObservationStrategy import ObservationStrategy
-from Observation.EventDrivenStrategy import EventDrivenStrategy
-from Observation.PeriodicStrategy import PeriodicStrategy
+from phoenix.Observation.ObservationStrategy import ObservationStrategy
+from phoenix.Observation.EventDrivenStrategy import EventDrivenStrategy
+from phoenix.Observation.PeriodicStrategy import PeriodicStrategy
 from Path import Path
 
 BOLD1 = "\033[1m"

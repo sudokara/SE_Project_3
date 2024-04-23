@@ -1,7 +1,7 @@
-from SingletonMeta import SingletonMeta
+from phoenix.utils.SingletonMeta import SingletonMeta
 from IKeyStrategy import IKeyStrategy
 
-class KeyManager(SingletonMeta):
+class KeyManager(metaclass=SingletonMeta):
     """
     The KeyManager class is a Singleton that manages the encryption and decryption keys for the CEManager.
     """
@@ -22,3 +22,10 @@ class KeyManager(SingletonMeta):
         if not self.__key:
             self.__key = self.__keyStrategy.get_key(*args, **kwargs)
         return self.__key
+    
+    def set_key_strategy(self, keyStrategy: IKeyStrategy):
+        """
+        Sets the key strategy for the KeyManager.
+        """
+        self.__keyStrategy = keyStrategy
+        self.__key = None

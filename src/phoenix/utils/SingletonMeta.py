@@ -3,7 +3,7 @@
 from threading import Lock
 
 
-class SingletonMeta():
+class SingletonMeta(type):
     """
     This is a thread-safe implementation of Singleton.
     """
