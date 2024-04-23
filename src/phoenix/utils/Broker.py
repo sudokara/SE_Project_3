@@ -4,10 +4,13 @@ but needs to be initialized with the intended strategies before use.
 """
 from phoenix.Compression_Encryption.CEManager import CEManager
 from phoenix.Compression_Encryption.KeyManager import KeyManager
+from phoenix.Compression_Encryption.GPGKeyStrategy import GPGKeyStrategy
+from phoenix.Compression_Encryption.TarCompressionStrategy import TarCompressionStrategy
+from phoenix.Compression_Encryption.GPGEncryptionStrategy import GPGEncryptionStrategy
 from SingletonMeta import SingletonMeta
 
 class Broker(metaclass=SingletonMeta):
-    def __init__(self, keyStrategy=None, compressionStrategy=None, encryptionStrategy=None) -> None:
+    def __init__(self, keyStrategy=GPGKeyStrategy("~/.gnupg"), compressionStrategy=TarCompressionStrategy, encryptionStrategy=GPGEncryptionStrategy) -> None:
         self.__keyManager = KeyManager(keyStrategy)
         self.__ceManager = CEManager(compressionStrategy, encryptionStrategy, self.__keyManager)
 
