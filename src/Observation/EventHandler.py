@@ -2,6 +2,9 @@ import pyinotify
 import difflib
 import os
 
+from .WatchDirStructure.WatchDirComposite import WatchDirComposite
+from .WatchDirStructure.WatchDirLeaf import WatchDirLeaf
+
 class EventHandler(pyinotify.ProcessEvent):
 
     def __init__(self):
@@ -10,17 +13,28 @@ class EventHandler(pyinotify.ProcessEvent):
     def backup(self, absolutePath):
 
         if os.path.isdir(absolutePath):
-            pass
             # print("Backing up directory: ", absolutePath)
 
             # backup the directory 
             #  function(absolutePath, False)
+
+            num_files_backing_up = WatchDirComposite(absolutePath).get_num_files()
+            size_backing_up = WatchDirComposite(absolutePath).get_storage_size()
+
+            print("Number of files backing up: ", num_files_backing_up)
+            print("Size of files backing up: ", size_backing_up)
+
         else:
-            pass
             # print("Backing up file: ", absolutePath)
             
             # backup the file
             # function(absolutePath, True)
+        
+            num_files_backing_up = WatchDirLeaf(absolutePath).get_num_files()
+            size_backing_up = WatchDirLeaf(absolutePath).get_storage_size()
+
+            print("Number of files backing up: ", num_files_backing_up)
+            print("Size of files backing up: ", size_backing_up)
         
 
     # def check_diff(self, file):
