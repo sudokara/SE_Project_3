@@ -297,10 +297,8 @@ class CLI:
 
         print("Last 5 files uploaded to Google Drive:")
         print(last_n_rows)
-        idx_str = input("Select the files to restore by entering the row index separated by space: ")
+        idx_str = input("\nPlease select the files you wish to restore by entering the row indices, separated by spaces: ")
         idx = list(map(int, idx_str.split()))
-
-        print(idx)
 
         try:
             broker = Broker(GoogleDrive(self.config['gdrive-folder-id']))
@@ -317,6 +315,7 @@ class CLI:
     def restore_onedrive(self):
         pass
         #TODO
+
 
     def exit_phoenix(self):
         print(BOLD1 + "\nThank you for using Phoenix!\n" + BOLD2)
