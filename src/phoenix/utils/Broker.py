@@ -11,11 +11,11 @@ from phoenix.Compression_Encryption.GPGKeyStrategy import GPGKeyStrategy
 from phoenix.Compression_Encryption.TarCompressionStrategy import TarCompressionStrategy
 from phoenix.Compression_Encryption.GPGEncryptionStrategy import GPGEncryptionStrategy
 from phoenix.utils.SingletonMeta import SingletonMeta
-from phoenix.Uploader import Uploader
+from phoenix.Uploader.Uploader import Uploader
 
 
 class Broker(metaclass=SingletonMeta):
-    def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy(), uploadDownloadStrategy: UploadDownloadStrategy = None) -> None:
+    def __init__(self, uploadDownloadStrategy: UploadDownloadStrategy = None, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy()) -> None:
         if uploadDownloadStrategy is None:
             raise ValueError("UploadDownloadStrategy cannot be None")
         

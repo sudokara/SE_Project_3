@@ -42,7 +42,7 @@ class EventHandler(pyinotify.ProcessEvent):
 
             try:
                 broker = Broker(uploadDownloadStrategy=uploadDownloadStrategy)
-                broker.backup(absolutePath, True)
+                broker.backup(absolutePath, False)
             except Exception as e:
                 print("Exception: ", e)
 
@@ -72,7 +72,7 @@ class EventHandler(pyinotify.ProcessEvent):
         else:
             new_data.to_csv(csv_file, mode='a', header=False, index=False)
 
-        logger.info("Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}")
+        logger.info(f"Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}")
         logger.info(f"Backup completed!")
         
 
