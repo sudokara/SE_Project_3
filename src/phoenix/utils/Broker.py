@@ -28,10 +28,16 @@ class Broker(metaclass=SingletonMeta):
 
     def backup(self, file_path, is_file):
         compressed_path = self.__ceManager.compress(file_path, is_file)
-        encrypted_path = self.__ceManager.encrypt(
+        if is_file:
+            encrypted_path = self.__ceManager.encrypt(
             compressed_path, self.__keyManager.get_key(), is_file)
-        
-        self.upload(encrypted_path)
+            self.upload(encrypted_path)
+        else:
+            for p in compressed_path:
+                encrypted_path = self.__ceManager.encrypt(
+                    p, self.__keyManager.get_key(), is_file)
+                self.upload(encrypted_path)
+                
 
     def set_key_strategy(self, keyStrategy):
         self.__keyManager.set_key_strategy(keyStrategy)
