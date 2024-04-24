@@ -16,7 +16,7 @@ in the directory where the script is run.
 
 ## Encryption
 - A strategy design pattern is used to switch between encryption algorithms. The `IEncryptionStrategy` interface is to be implemented by encryption strategies. It contains `encrypt` and `decrypt` methods along with an initialization for output directories, as mentioned in the compression section.
-- A singleton design pattern is used to generate and manage the encryption key, defined in `KeyManager` which uses `SingletonMeta` metaclass, a thread safe implementation of the singleton pattern. Encryption algorithms might have differing implementations for this, so we also introduce a strategy design pattern in `IKeyStrategy`. 
+- A singleton design pattern is used to generate and manage the encryption key, defined in `KeyManager` which uses `SingletonMeta` metaclass, an implementation of the singleton pattern. Encryption algorithms might have differing implementations for this, so we also introduce a strategy design pattern in `IKeyStrategy`. 
 - We use GPG to perform encryption. The concrete strategy for `IEncryptionStrategy` is `GPGEncryptionStrategy`. The concrete strategy for `IKeyStrategy` is `GPGKeyStrategy`. Also, we need to ensure a single `gpg` object is used across encryption and key management. A singleton `GPGSingleton.py` is used to initialize gpg with desired config.
 
 ## Manager

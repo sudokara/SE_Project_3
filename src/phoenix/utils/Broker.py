@@ -12,8 +12,16 @@ from phoenix.Compression_Encryption.GPGEncryptionStrategy import GPGEncryptionSt
 from phoenix.utils.SingletonMeta import SingletonMeta
 
 class Broker(metaclass=SingletonMeta):
-    def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser("~/.gnupg")), compressionStrategy=TarCompressionStrategy, encryptionStrategy=GPGEncryptionStrategy) -> None:
+    def __init__(self, keyStrategy="gpg", compressionStrategy="tar", encryptionStrategy="gpg") -> None:
         print("inside broker constructor")
+
+        if keyStrategy == "gpg":
+            keyStrategy = GPGKeyStrategy(os.path.expanduser('~/.gnupg'))
+        if compressionStrategy == "tar":
+            compressionStrategy = TarCompressionStrategy()
+        if encryptionStrategy == "gpg":
+            encryptionStrategy = GPGEncryptionStrategy()
+
         self.__keyManager = KeyManager(keyStrategy)
         print("key manager created")
         self.__ceManager = CEManager(compressionStrategy, encryptionStrategy, self.__keyManager)
@@ -22,7 +30,9 @@ class Broker(metaclass=SingletonMeta):
     def backup(self, file_path, is_file):
         print("Inside Broker backup")
         compressed_path = self.__ceManager.compress(file_path, is_file)
+        print(f"c: {compressed_path}")
         encrypted_path = self.__ceManager.encrypt(compressed_path, self.__keyManager.get_key(), is_file)
+        print(f"e: {encrypted_path}")
         return encrypted_path
 
     def set_key_strategy(self, keyStrategy):
