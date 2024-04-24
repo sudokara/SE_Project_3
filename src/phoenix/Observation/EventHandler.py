@@ -42,7 +42,6 @@ class EventHandler(pyinotify.ProcessEvent):
     
         csv_file = 'log.csv'
 
-        # Check if the file exists
         if not os.path.exists(csv_file):
             new_data.to_csv(csv_file, index=False)
         else:
