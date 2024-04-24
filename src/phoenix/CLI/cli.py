@@ -177,7 +177,22 @@ class CLI:
         info = True if input("Do you need guidance to get One Drive credentials? (y/n)") == 'y' else False
 
         if info:
-            steps = []
+            steps = [
+                "1. Navigate to [Azure Portal](https://portal.azure.com).",
+                "2. In the search bar, enter App registrations and select it.",
+                "3. Click on New registration.",
+                "4. Provide a name for the application.",
+                "5. For Supported account types, select Accounts in any organizational directory (Any Microsoft Entra ID tenant - Multitenant).",
+                "6. Under Redirect URI (optional), choose Public client/native (mobile and desktop) and enter http://localhost:8000 as the redirect URI.",
+                "7. Click Register. You'll be redirected to the application overview page.",
+                "9. Go to API permissions.",
+                "10. Click Add permission.",
+                "11. Select Microsoft Graph.",
+                "12. Choose Delegated permissions.",
+                "13. Select Files.ReadWrite and Files.ReadWrite.All.",
+                "14. Click Add permissions.",
+                "15. Once the above steps are done, enter the following details."
+            ]
 
             print("\nSteps to get Credentials")
             for step in steps:
