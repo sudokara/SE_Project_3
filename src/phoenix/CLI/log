@@ -301,3 +301,151 @@
 2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/create WD=-1, Errno=Invalid argument (EINVAL)
 2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
 2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 23:42:55,369 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=No such file or directory (ENOENT)
+2024-04-24 23:44:07,533 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:44:07,838 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:44:07,870 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:44:07,871 - INFO - Uploading file to Google Drive
+2024-04-24 23:44:07,871 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:44:07,878 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-24 23:44:07,878 - INFO - Backup completed!
+2024-04-24 23:44:07,879 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:44:07,880 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:44:07,887 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:44:07,887 - INFO - Uploading file to Google Drive
+2024-04-24 23:44:07,887 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:44:07,889 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-24 23:44:07,889 - INFO - Backup completed!
+2024-04-24 23:44:07,889 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:44:07,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:44:07,898 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:44:07,898 - INFO - Uploading file to Google Drive
+2024-04-24 23:44:07,898 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:44:07,900 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-24 23:44:07,900 - INFO - Backup completed!
+2024-04-24 23:44:07,900 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:44:07,901 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:44:07,907 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:44:07,907 - INFO - Uploading file to Google Drive
+2024-04-24 23:44:07,908 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:44:07,910 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-24 23:44:07,910 - INFO - Backup completed!
+2024-04-24 23:45:22,601 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:45:22,614 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:45:22,642 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:45:22,642 - INFO - Uploading file to Google Drive
+2024-04-24 23:45:22,642 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:45:22,650 - INFO - Number of files backing up: 1, Size of backup: 9
+2024-04-24 23:45:22,651 - INFO - Backup completed!
+2024-04-24 23:45:22,651 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:45:22,652 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:45:22,659 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:45:22,659 - INFO - Uploading file to Google Drive
+2024-04-24 23:45:22,659 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:45:22,661 - INFO - Number of files backing up: 1, Size of backup: 9
+2024-04-24 23:45:22,661 - INFO - Backup completed!
+2024-04-24 23:45:22,661 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:45:22,663 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:45:22,670 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:45:22,670 - INFO - Uploading file to Google Drive
+2024-04-24 23:45:22,670 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:45:22,672 - INFO - Number of files backing up: 1, Size of backup: 9
+2024-04-24 23:45:22,672 - INFO - Backup completed!
+2024-04-24 23:45:22,672 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:45:22,674 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:45:22,679 - WARNING - gpg returned a non-zero error code: 2
+2024-04-24 23:45:22,680 - INFO - Uploading file to Google Drive
+2024-04-24 23:45:22,680 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:45:22,681 - INFO - Number of files backing up: 1, Size of backup: 9
+2024-04-24 23:45:22,681 - INFO - Backup completed!
+2024-04-24 23:47:22,309 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:22,315 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:22,335 - INFO - File encrypted successfully!
+2024-04-24 23:47:22,335 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:22,335 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:24,885 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:24,885 - INFO - Backup completed!
+2024-04-24 23:47:24,885 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:24,887 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:24,899 - INFO - File encrypted successfully!
+2024-04-24 23:47:24,899 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:24,899 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:26,785 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:26,785 - INFO - Backup completed!
+2024-04-24 23:47:26,786 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:26,786 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:26,791 - INFO - File encrypted successfully!
+2024-04-24 23:47:26,792 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:26,792 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:28,833 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:28,833 - INFO - Backup completed!
+2024-04-24 23:47:28,833 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:28,834 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:28,840 - INFO - File encrypted successfully!
+2024-04-24 23:47:28,840 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:28,840 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:30,765 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:30,765 - INFO - Backup completed!
+2024-04-24 23:47:30,765 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:30,767 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:30,779 - INFO - File encrypted successfully!
+2024-04-24 23:47:30,779 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:30,779 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:32,627 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:32,627 - INFO - Backup completed!
+2024-04-24 23:47:32,628 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:32,628 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:32,641 - INFO - File encrypted successfully!
+2024-04-24 23:47:32,641 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:32,641 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:34,571 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:34,571 - INFO - Backup completed!
+2024-04-24 23:47:34,572 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:34,573 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:34,579 - INFO - File encrypted successfully!
+2024-04-24 23:47:34,579 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:34,579 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:36,212 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:36,212 - INFO - Backup completed!
+2024-04-24 23:47:36,212 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/2
+2024-04-24 23:47:36,215 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:36,233 - INFO - File encrypted successfully!
+2024-04-24 23:47:36,234 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:36,234 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:38,254 - INFO - Number of files backing up: 1, Size of backup: 12
+2024-04-24 23:47:38,254 - INFO - Backup completed!
+2024-04-24 23:47:38,290 - INFO - Event: IN_CREATE Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2
+2024-04-24 23:47:38,291 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 23:47:38,307 - INFO - File encrypted successfully!
+2024-04-24 23:47:38,307 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:38,307 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-2.tar.gz.gpg
+2024-04-24 23:47:48,813 - INFO - File encrypted successfully!
+2024-04-24 23:47:48,813 - INFO - Uploading file to Google Drive
+2024-04-24 23:47:48,813 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-adyanshk-Personal-courses-SE-SE_Project_3-src-phoenix-Observation-watchDir2-1.tar.gz.gpg
+2024-04-24 23:47:51,064 - INFO - Number of files backing up: 2, Size of backup: 12
+2024-04-24 23:47:51,064 - INFO - Backup completed!
+2024-04-25 00:26:50,729 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:28:09,020 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:38:04,859 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:53:34,388 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:55:20,364 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:57:08,477 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:58:00,825 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 00:58:43,422 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:00:46,714 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:01:13,376 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:01:54,064 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:02:29,688 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:04:14,947 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:05:34,267 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:05:34,286 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 01:05:34,286 - INFO - Backup completed!
+2024-04-25 01:05:34,286 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:05:34,295 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 01:05:34,295 - INFO - Backup completed!
+2024-04-25 01:05:34,295 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:05:34,302 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 01:05:34,302 - INFO - Backup completed!
+2024-04-25 01:05:34,302 - INFO - Event: IN_MODIFY Path: /home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/watchDir2/1
+2024-04-25 01:05:34,312 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 01:05:34,312 - INFO - Backup completed!

@@ -10,54 +10,30 @@ from phoenix.Observation.WatchDirStructure.WatchDirComposite import WatchDirComp
 from phoenix.Observation.WatchDirStructure.WatchDirLeaf import WatchDirLeaf
 from phoenix.utils.Broker import Broker
 from phoenix.utils.Logger import logger
+import requests
 
 class EventHandler(pyinotify.ProcessEvent):
 
     def __init__(self):
         super().__init__()
 
-    def _get_cloud_provider(self):
-        
-        with open("../config.json") as f:
-            config = json.load(f)
-        
-        if config['cloud-provider'] == "gdrive":
-            return GoogleDrive(config['gdrive-folder-id'])
-        else:
-
-            with open("../Uploader/onedrive_credentials.json") as f:
-                onedrive_config = json.load(f)
-
-            return OneDrive(siteName=onedrive_config['siteName'], sites=onedrive_config['sites'], domain=onedrive_config['domain'], onedrive_path=onedrive_config['onedrive_path'], client_id=onedrive_config['client_id'], authority=onedrive_config['authority'])
-            
-
     def backup(self, absolutePath, maskname):
 
         logger.info(f"Event: {maskname} Path: {absolutePath}")
 
-        uploadDownloadStrategy = self._get_cloud_provider()
+        data = {
+            'absolutePath': absolutePath,
+            'is_file': not os.path.isfile(absolutePath),
+        }
+
+        response = requests.post('http://127.0.0.1:5000/encrypt-compress', data=data)
 
         if os.path.isdir(absolutePath):
- #           print(maskname)
-
-            try:
-                broker = Broker(uploadDownloadStrategy=uploadDownloadStrategy)
-                broker.backup(absolutePath, False)
-            except Exception as e:
-                print("Exception: ", e)
 
             num_files_backing_up = WatchDirComposite(absolutePath).get_num_files()
             size_backing_up = WatchDirComposite(absolutePath).get_size()
 
-        else:
- #           print(maskname)
-
-            try:
-                broker = Broker(uploadDownloadStrategy=uploadDownloadStrategy)
-                broker.backup(absolutePath, True)
-            except Exception as e:
-                print("Exception: ", e)
-        
+        else:        
             num_files_backing_up = WatchDirLeaf(absolutePath).get_num_files()
             size_backing_up = WatchDirLeaf(absolutePath).get_size()
         
@@ -76,45 +52,21 @@ class EventHandler(pyinotify.ProcessEvent):
         logger.info(f"Backup completed!")
         
 
-    # def check_diff(self, file):
-    #     print("Checking diff for file: ", file)
-    #     file2 = file # get the file from the backup
-    #     with open(file, 'r') as file1:
-    #         file1_lines = file1.readlines()
-    #     with open(file2, 'r') as file2:
-    #         file2_lines = file2.readlines()
-        
-    #     diff = difflib.unified_diff(file1_lines, file2_lines, fromfile=file, tofile=file2)
-    #     return any(diff)
-        
-
     def process_IN_MOVED_FROM(self, event):
-        # print("IN_MOVED_FROM: ", event.pathname)
-        # self.backup(event.pathname)
-
         parent_directory = os.path.dirname(event.pathname)
         self.backup(parent_directory, "IN_MOVED_FROM")
 
     def process_IN_MOVED_TO(self, event):
-        # print("IN_MOVED_TO: ", event.pathname)
-        # self.backup(event.pathname)
-
         parent_directory = os.path.dirname(event.pathname)
         self.backup(parent_directory, "IN_MOVED_TO")
 
     def process_IN_CREATE(self, event):
-        # print("IN_CREATE: ", event.pathname)
-
         parent_directory = os.path.dirname(event.pathname)
         self.backup(parent_directory, "IN_CREATE")
             
     def process_IN_DELETE(self, event):
-        # print("IN_DELETE: ", event.pathname)
-        # self.backup(event.pathname)
-
         parent_directory = os.path.dirname(event.pathname)
         self.backup(parent_directory, "IN_DELETE")
         
     def process_IN_MODIFY(self, event):
-        # print("IN_MODIFY: ", event.pathname)
         self.backup(event.pathname, "IN_MODIFY")

@@ -1,0 +1,238 @@
+2024-04-25 00:32:28,963 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:32:28,963 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:32:54,745 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:32:54,745 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:16,670 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:34:16,671 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:26,112 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:34:26,112 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:39,833 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:34:39,833 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:50,109 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:34:50,109 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:59,264 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6000
+2024-04-25 00:34:59,264 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:34:59,266 - INFO -  * Restarting with stat
+2024-04-25 00:34:59,800 - WARNING -  * Debugger is active!
+2024-04-25 00:34:59,921 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:36:34,438 - INFO - 127.0.0.1 - - [25/Apr/2024 00:36:34] "GET / HTTP/1.1" 200 -
+2024-04-25 00:37:12,244 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:37:12,409 - INFO -  * Restarting with stat
+2024-04-25 00:37:13,394 - WARNING -  * Debugger is active!
+2024-04-25 00:37:13,395 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:37:15,654 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:37:15,654 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:37:15,654 - INFO -  * Restarting with stat
+2024-04-25 00:37:16,221 - WARNING -  * Debugger is active!
+2024-04-25 00:37:16,221 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:37:21,029 - INFO - 127.0.0.1 - - [25/Apr/2024 00:37:21] "GET / HTTP/1.1" 200 -
+2024-04-25 00:37:21,286 - INFO - 127.0.0.1 - - [25/Apr/2024 00:37:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-25 00:37:44,147 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:37:44,147 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:37:44,147 - INFO -  * Restarting with stat
+2024-04-25 00:37:44,678 - WARNING -  * Debugger is active!
+2024-04-25 00:37:44,678 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:45:16,604 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 00:45:16,722 - INFO -  * Restarting with stat
+2024-04-25 00:45:17,231 - WARNING -  * Debugger is active!
+2024-04-25 00:45:17,232 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:46:27,122 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:46:27,252 - INFO -  * Restarting with stat
+2024-04-25 00:46:27,798 - WARNING -  * Debugger is active!
+2024-04-25 00:46:27,799 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:46:31,600 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:46:31,715 - INFO -  * Restarting with stat
+2024-04-25 00:46:32,282 - WARNING -  * Debugger is active!
+2024-04-25 00:46:32,283 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:46:40,791 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 00:46:40,934 - INFO -  * Restarting with stat
+2024-04-25 00:46:41,505 - WARNING -  * Debugger is active!
+2024-04-25 00:46:41,505 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:46:53,460 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 00:46:53,608 - INFO -  * Restarting with stat
+2024-04-25 00:46:54,220 - WARNING -  * Debugger is active!
+2024-04-25 00:46:54,220 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:46:58,136 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 00:46:58,325 - INFO -  * Restarting with stat
+2024-04-25 00:46:58,915 - WARNING -  * Debugger is active!
+2024-04-25 00:46:58,915 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:47:09,664 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 00:47:09,828 - INFO -  * Restarting with stat
+2024-04-25 00:47:10,420 - WARNING -  * Debugger is active!
+2024-04-25 00:47:10,420 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:47:30,882 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 00:47:31,129 - INFO -  * Restarting with stat
+2024-04-25 00:47:31,960 - WARNING -  * Debugger is active!
+2024-04-25 00:47:31,961 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:47:45,028 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 00:47:45,197 - INFO -  * Restarting with stat
+2024-04-25 00:47:45,735 - WARNING -  * Debugger is active!
+2024-04-25 00:47:45,735 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:52:25,612 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:52:25,612 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:52:25,613 - INFO -  * Restarting with stat
+2024-04-25 00:52:26,210 - WARNING -  * Debugger is active!
+2024-04-25 00:52:26,211 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:53:13,222 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 00:53:13,426 - INFO -  * Restarting with stat
+2024-04-25 00:53:14,258 - WARNING -  * Debugger is active!
+2024-04-25 00:53:14,258 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:53:34,417 - INFO - 127.0.0.1 - - [25/Apr/2024 00:53:34] "[35m[1mPOST /encrypt_compress HTTP/1.1[0m" 500 -
+2024-04-25 00:55:03,289 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:55:03,448 - INFO -  * Restarting with stat
+2024-04-25 00:55:04,127 - WARNING -  * Debugger is active!
+2024-04-25 00:55:04,127 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:55:09,357 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 00:55:09,510 - INFO -  * Restarting with stat
+2024-04-25 00:55:12,340 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:55:12,340 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:55:12,341 - INFO -  * Restarting with stat
+2024-04-25 00:55:13,254 - WARNING -  * Debugger is active!
+2024-04-25 00:55:13,255 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:55:20,376 - INFO - 127.0.0.1 - - [25/Apr/2024 00:55:20] "POST /encrypt_compress HTTP/1.1" 200 -
+2024-04-25 00:56:08,290 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:56:08,485 - INFO -  * Restarting with stat
+2024-04-25 00:56:09,154 - WARNING -  * Debugger is active!
+2024-04-25 00:56:09,154 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:56:28,488 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:56:28,719 - INFO -  * Restarting with stat
+2024-04-25 00:56:51,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:56:51,587 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:56:51,588 - INFO -  * Restarting with stat
+2024-04-25 00:56:52,135 - WARNING -  * Debugger is active!
+2024-04-25 00:56:52,135 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:57:08,495 - INFO - 127.0.0.1 - - [25/Apr/2024 00:57:08] "POST /encrypt-compress HTTP/1.1" 200 -
+2024-04-25 00:57:46,400 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:57:46,737 - INFO -  * Restarting with stat
+2024-04-25 00:57:47,904 - WARNING -  * Debugger is active!
+2024-04-25 00:57:47,904 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:57:51,929 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:57:53,633 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:57:53,633 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:57:53,634 - INFO -  * Restarting with stat
+2024-04-25 00:57:54,175 - WARNING -  * Debugger is active!
+2024-04-25 00:57:54,175 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:58:00,852 - INFO - 127.0.0.1 - - [25/Apr/2024 00:58:00] "[35m[1mPOST /encrypt-compress HTTP/1.1[0m" 500 -
+2024-04-25 00:58:33,413 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 00:58:33,621 - INFO -  * Restarting with stat
+2024-04-25 00:58:34,475 - WARNING -  * Debugger is active!
+2024-04-25 00:58:34,476 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:58:36,046 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 00:58:36,046 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 00:58:36,047 - INFO -  * Restarting with stat
+2024-04-25 00:58:36,723 - WARNING -  * Debugger is active!
+2024-04-25 00:58:36,724 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 00:58:43,452 - INFO - 127.0.0.1 - - [25/Apr/2024 00:58:43] "[35m[1mPOST /encrypt-compress HTTP/1.1[0m" 500 -
+2024-04-25 00:59:30,614 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 00:59:30,826 - INFO -  * Restarting with stat
+2024-04-25 00:59:31,862 - WARNING -  * Debugger is active!
+2024-04-25 00:59:31,862 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:00:41,007 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 01:00:41,007 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 01:00:41,007 - INFO -  * Restarting with stat
+2024-04-25 01:00:41,645 - WARNING -  * Debugger is active!
+2024-04-25 01:00:41,645 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:00:46,767 - INFO - 127.0.0.1 - - [25/Apr/2024 01:00:46] "[35m[1mPOST /encrypt-compress HTTP/1.1[0m" 500 -
+2024-04-25 01:00:57,700 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:00:57,844 - INFO -  * Restarting with stat
+2024-04-25 01:00:58,438 - WARNING -  * Debugger is active!
+2024-04-25 01:00:58,439 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:01:13,386 - INFO - 127.0.0.1 - - [25/Apr/2024 01:01:13] "[33mPOST /ec HTTP/1.1[0m" 404 -
+2024-04-25 01:01:41,067 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:01:41,346 - INFO -  * Restarting with stat
+2024-04-25 01:01:42,152 - WARNING -  * Debugger is active!
+2024-04-25 01:01:42,153 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:01:44,315 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 01:01:44,315 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 01:01:44,316 - INFO -  * Restarting with stat
+2024-04-25 01:01:45,247 - WARNING -  * Debugger is active!
+2024-04-25 01:01:45,247 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:01:54,098 - INFO - 127.0.0.1 - - [25/Apr/2024 01:01:54] "[35m[1mPOST /ec HTTP/1.1[0m" 500 -
+2024-04-25 01:02:09,281 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:02:09,435 - INFO -  * Restarting with stat
+2024-04-25 01:02:10,027 - WARNING -  * Debugger is active!
+2024-04-25 01:02:10,027 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:02:23,231 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 01:02:23,231 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 01:02:23,232 - INFO -  * Restarting with stat
+2024-04-25 01:02:23,812 - WARNING -  * Debugger is active!
+2024-04-25 01:02:23,812 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:02:29,724 - INFO - 127.0.0.1 - - [25/Apr/2024 01:02:29] "[35m[1mPOST /ec HTTP/1.1[0m" 500 -
+2024-04-25 01:04:07,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 01:04:07,794 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 01:04:07,794 - INFO -  * Restarting with stat
+2024-04-25 01:04:08,340 - WARNING -  * Debugger is active!
+2024-04-25 01:04:08,340 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:04:14,953 - INFO - 127.0.0.1 - - [25/Apr/2024 01:04:14] "[31m[1mPOST /ec HTTP/1.1[0m" 415 -
+2024-04-25 01:04:27,779 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:04:27,981 - INFO -  * Restarting with stat
+2024-04-25 01:04:28,769 - WARNING -  * Debugger is active!
+2024-04-25 01:04:28,769 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:05:17,222 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/utils/Broker.py', reloading
+2024-04-25 01:05:17,512 - INFO -  * Restarting with stat
+2024-04-25 01:05:18,343 - WARNING -  * Debugger is active!
+2024-04-25 01:05:18,343 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:05:26,149 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-04-25 01:05:26,150 - INFO - [33mPress CTRL+C to quit[0m
+2024-04-25 01:05:26,150 - INFO -  * Restarting with stat
+2024-04-25 01:05:27,123 - WARNING -  * Debugger is active!
+2024-04-25 01:05:27,124 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:05:34,275 - INFO - 127.0.0.1 - - [25/Apr/2024 01:05:34] "[31m[1mPOST /ec HTTP/1.1[0m" 415 -
+2024-04-25 01:05:34,290 - INFO - 127.0.0.1 - - [25/Apr/2024 01:05:34] "[31m[1mPOST /ec HTTP/1.1[0m" 415 -
+2024-04-25 01:05:34,299 - INFO - 127.0.0.1 - - [25/Apr/2024 01:05:34] "[31m[1mPOST /ec HTTP/1.1[0m" 415 -
+2024-04-25 01:05:34,309 - INFO - 127.0.0.1 - - [25/Apr/2024 01:05:34] "[31m[1mPOST /ec HTTP/1.1[0m" 415 -
+2024-04-25 01:06:15,700 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:06:15,873 - INFO -  * Restarting with stat
+2024-04-25 01:06:16,476 - WARNING -  * Debugger is active!
+2024-04-25 01:06:16,477 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:06:27,439 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:06:27,684 - INFO -  * Restarting with stat
+2024-04-25 01:06:28,294 - WARNING -  * Debugger is active!
+2024-04-25 01:06:28,295 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:06:34,503 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:06:34,655 - INFO -  * Restarting with stat
+2024-04-25 01:06:35,591 - WARNING -  * Debugger is active!
+2024-04-25 01:06:35,591 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:06:53,769 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:06:53,966 - INFO -  * Restarting with stat
+2024-04-25 01:06:54,597 - WARNING -  * Debugger is active!
+2024-04-25 01:06:54,597 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:07:02,918 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:07:03,123 - INFO -  * Restarting with stat
+2024-04-25 01:07:03,831 - WARNING -  * Debugger is active!
+2024-04-25 01:07:03,832 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:07:21,080 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:07:21,236 - INFO -  * Restarting with stat
+2024-04-25 01:07:21,973 - WARNING -  * Debugger is active!
+2024-04-25 01:07:21,973 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:07:25,741 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Observation/EventHandler.py', reloading
+2024-04-25 01:07:25,883 - INFO -  * Restarting with stat
+2024-04-25 01:07:26,493 - WARNING -  * Debugger is active!
+2024-04-25 01:07:26,493 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:07:51,364 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Uploader/server.py', reloading
+2024-04-25 01:07:51,653 - INFO -  * Restarting with stat
+2024-04-25 01:07:52,491 - WARNING -  * Debugger is active!
+2024-04-25 01:07:52,492 - INFO -  * Debugger PIN: 647-886-313
+2024-04-25 01:07:56,494 - INFO -  * Detected change in '/home/adyanshk/Personal/courses/SE/SE_Project_3/src/phoenix/Compression_Encryption/server.py', reloading
+2024-04-25 01:07:56,689 - INFO -  * Restarting with stat
+2024-04-25 01:07:57,374 - WARNING -  * Debugger is active!
+2024-04-25 01:07:57,375 - INFO -  * Debugger PIN: 647-886-313

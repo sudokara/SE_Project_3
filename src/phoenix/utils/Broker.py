@@ -12,31 +12,34 @@ from phoenix.Compression_Encryption.TarCompressionStrategy import TarCompression
 from phoenix.Compression_Encryption.GPGEncryptionStrategy import GPGEncryptionStrategy
 from phoenix.utils.SingletonMeta import SingletonMeta
 from phoenix.Uploader.Uploader import Uploader
+import requests
 
 
 class Broker(metaclass=SingletonMeta):
-    def __init__(self, uploadDownloadStrategy: UploadDownloadStrategy = None, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy()) -> None:
-        if uploadDownloadStrategy is None:
-            raise ValueError("UploadDownloadStrategy cannot be None")
+    def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy()) -> None:
+        # if uploadDownloadStrategy is None:
+        #     raise ValueError("UploadDownloadStrategy cannot be None")
         
         self.__keyManager = KeyManager(keyStrategy)
         self.__ceManager = CEManager(
             compressionStrategy, encryptionStrategy, self.__keyManager)
         
-        self.__uploadDownloadStrategy = uploadDownloadStrategy
-        self.__uploader = Uploader(self.__uploadDownloadStrategy)
+        # self.__uploadDownloadStrategy = uploadDownloadStrategy
+        # self.__uploader = Uploader(self.__uploadDownloadStrategy)
 
     def backup(self, file_path, is_file):
         compressed_path = self.__ceManager.compress(file_path, is_file)
         if is_file:
             encrypted_path = self.__ceManager.encrypt(
             compressed_path, self.__keyManager.get_key(), is_file)
-            self.upload(encrypted_path)
+            # self.upload(encrypted_path)
+            res = requests.post('http://localhost:5001/upload', data={'encryptedPath': encrypted_path})
         else:
             for p in compressed_path:
                 encrypted_path = self.__ceManager.encrypt(
                     p, self.__keyManager.get_key(), is_file)
-                self.upload(encrypted_path)
+                # self.upload(encrypted_path)
+                res = requests.post('http://localhost:5001/upload', data={'encryptedPath': encrypted_path})
                 
 
     def set_key_strategy(self, keyStrategy):
@@ -48,8 +51,8 @@ class Broker(metaclass=SingletonMeta):
     def set_encryption_strategy(self, encryptionStrategy):
         self.__ceManager.setEncryptionStrategy(encryptionStrategy)
 
-    def upload(self, filepath):
-        self.__uploader.upload_file(filepath)
+    # def upload(self, filepath):
+    #     self.__uploader.upload_file(filepath)
 
     def download(self, filepath, **kwargs):
         self.__uploader.download_file(filepath, **kwargs)

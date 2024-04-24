@@ -5,7 +5,7 @@ from msal import PublicClientApplication
 import time
 import os
 import pandas as pd
-from utils.Logger import logger
+from phoenix.utils.Logger import logger
 
 
 class OneDrive(UploadDownloadStrategy):
