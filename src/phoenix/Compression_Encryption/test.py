@@ -10,7 +10,7 @@ gpgkeystrategy = GPGKeyStrategy(os.path.expanduser('~/.gnupg'))
 keyManager = KeyManager(gpgkeystrategy)
 ceManager = CEManager(TarCompressionStrategy(), GPGEncryptionStrategy(), keyManager)
 
-# compressed_file_paths = ceManager.compress("test", False)
+# compressed_file_paths = ceManager.compress("phoenix/Compression_Encryption/test", False)
 # print(compressed_file_paths)
 # encrypted_file_paths = [ceManager.encrypt(compressed_file_path, keyManager.get_key()) for compressed_file_path in compressed_file_paths]
 # print(encrypted_file_paths)
@@ -19,7 +19,7 @@ ceManager = CEManager(TarCompressionStrategy(), GPGEncryptionStrategy(), keyMana
 # decompressed_file_paths = [ceManager.decompress(decrypted_file_path) for decrypted_file_path in decrypted_file_paths]
 # print(decompressed_file_paths)
 
-compressed_file_path = ceManager.compress("test/test2.txt")
+compressed_file_path = ceManager.compress("phoenix/Compression_Encryption/test/test2.txt")
 encrypted_file_path = ceManager.encrypt(compressed_file_path, keyManager.get_key())
 decrypted_file_path = ceManager.decrypt(encrypted_file_path, keyManager.get_key())
 print(ceManager.decompress(decrypted_file_path))
