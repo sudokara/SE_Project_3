@@ -5,9 +5,12 @@ import os
 import subprocess
 import sys
 from multiprocessing import Process
+import pandas as pd
 
 
 sys.path.append('..')
+from phoenix.utils.Broker import Broker
+from phoenix.Uploader.GoogleDrive import GoogleDrive
 from phoenix.Observation.OManager import OManager
 from phoenix.Observation.ObservationStrategy import ObservationStrategy
 from phoenix.Observation.EventDrivenStrategy import EventDrivenStrategy
@@ -57,6 +60,12 @@ class CLI:
 
         elif command == 'onedrive-cred':
             self.onedrive_credentials()
+
+        elif command == 'restore --gdrive':
+            self.gdrive_restore()
+
+        elif command == 'restore --onedrive':
+            self.onedrive_restore()
 
         elif command == 'add-wd':
             self.add_watch_directory()
@@ -155,7 +164,7 @@ class CLI:
             json.dump(credentials, f)
 
         gdrive_folder_id = input("Enter the Google Drive folder ID: ")
-        self.config["gdrive_folder_id"] = gdrive_folder_id
+        self.config["gdrive-folder-id"] = gdrive_folder_id
         self.update_config()
 
 
@@ -208,7 +217,6 @@ class CLI:
             print("Stop backup before configuration")
             return
          
-        # self.strategy = strategy
         self.config["strategy"] = "event-driven" if isinstance(strategy, EventDrivenStrategy) else "periodic"
         self.__oManager.setObservationStrategy(strategy)
 
@@ -260,10 +268,12 @@ class CLI:
 
     def start_observing(self):
 
-        if self.backup is False:
+        if self.backup == False:
+
             self.backup = True
             print(BOLD1 + "\nMonitoring has started\n" + BOLD2)
             
+            self.__oManager = OManager(PeriodicStrategy() if self.config["strategy"] == "periodic" else EventDrivenStrategy())
             self.process = Process(target=self.__oManager.start, args=(self.state,))
             self.process.start()
 
@@ -276,6 +286,37 @@ class CLI:
                 
         print(BOLD1 + "\nMonitoring has stopped\n" + BOLD2)
 
+
+    def gdrive_restore(self):
+
+        csv_file = "../Uploader/gdrive_log.csv"
+
+        df = pd.read_csv(csv_file)
+        df.columns = ['File Name', 'File ID', 'Time']
+        last_n_rows = df.tail(5)
+
+        print("Last 5 files uploaded to Google Drive:")
+        print(last_n_rows)
+        idx_str = input("Select the files to restore by entering the row index separated by space: ")
+        idx = list(map(int, idx_str.split()))
+
+        print(idx)
+
+        try:
+            broker = Broker(GoogleDrive(self.config['gdrive-folder-id']))
+        except Exception as e:
+            print("Error:", e)
+        
+        for i in idx:
+            file_path = last_n_rows['File Name'][i]
+            file_path = file_path.split("/")[2]
+            file_path = file_path.replace("-", "/")
+            broker.download(file_path, last_n_rows['File ID'][i])
+
+
+    def restore_onedrive(self):
+        pass
+        #TODO
 
     def exit_phoenix(self):
         print(BOLD1 + "\nThank you for using Phoenix!\n" + BOLD2)
@@ -308,6 +349,7 @@ def print_startup_info():
     print(" * To exit application, use the command " + BOLD1 + 'exit' + BOLD2)
     print(" * Remove a directory from being watched using the command " + BOLD1 + 'rm-wd' + BOLD2)
     print(" * Get directories being watched using the command " + BOLD1 + 'get-wd' + BOLD2)
+    print(" * Restore files from Google Drive using the command " + BOLD1 + 'restore --gdrive' + BOLD2)
 
     print(BOLD1 + "\nModify Phoenix Configuration at any time by halting the backup process and then utilizing setup commands.\n" + BOLD2)
 

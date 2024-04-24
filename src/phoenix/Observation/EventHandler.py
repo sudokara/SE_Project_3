@@ -38,7 +38,7 @@ class EventHandler(pyinotify.ProcessEvent):
         uploadDownloadStrategy = self._get_cloud_provider()
 
         if os.path.isdir(absolutePath):
-            print(maskname)
+ #           print(maskname)
 
             try:
                 broker = Broker(uploadDownloadStrategy=uploadDownloadStrategy)
@@ -50,7 +50,7 @@ class EventHandler(pyinotify.ProcessEvent):
             size_backing_up = WatchDirComposite(absolutePath).get_size()
 
         else:
-            print(maskname)
+ #           print(maskname)
 
             try:
                 broker = Broker(uploadDownloadStrategy=uploadDownloadStrategy)

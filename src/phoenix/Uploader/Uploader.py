@@ -2,6 +2,7 @@
 from __future__ import annotations
 from abc import ABC
 from phoenix.Uploader.Strategy import UploadDownloadStrategy
+from phoenix.utils.Logger import logger
 
 
 class Uploader():
@@ -46,7 +47,8 @@ class Uploader():
         implementing multiple versions of the algorithm on its own.
         """
 
-        print(f"Uploader: Uploading file to {self._strategy.get_name()}")
+ #       print(f"Uploader: Uploading file to {self._strategy.get_name()}")
+        logger.info(f"Uploading file to {self._strategy.get_name()}")
         self._strategy.upload(file_path)
 
 

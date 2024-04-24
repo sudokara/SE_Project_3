@@ -14,5 +14,5 @@ class OManager():
     def start(self, *args, **kwargs):
         return self.__observationStrategy.start(*args, **kwargs)
     
-    def stop(self, *args, **kwargs):
-        return self.__observationStrategy.stop(*args, **kwargs)
+    def stop(self):
+        return self.__observationStrategy.stop()
