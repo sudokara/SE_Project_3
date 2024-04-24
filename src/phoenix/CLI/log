@@ -8,3 +8,296 @@
 2024-04-24 17:07:40,657 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=Invalid argument (EINVAL)
 2024-04-24 17:07:40,658 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
 2024-04-24 17:07:40,662 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:13:00,804 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=No such file or directory (ENOENT)
+2024-04-24 17:14:05,506 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/w WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:14:05,507 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:14:05,507 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:14:05,507 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:14:27,639 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:15:59,530 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:16:12,102 - INFO - "GET /?state=V4ovKKQ95zLnxNnSkC6tsl9kZQuQoA&code=4/0AeaYSHBl-33xyfAeSozVH4pYujEZvsSLcy4U-Lj0TgxIyYMQXOyrk9lwunf-qhziUaUTlg&scope=https://www.googleapis.com/auth/drive.file HTTP/1.1" 200 65
+2024-04-24 17:16:12,410 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:16:12,433 - INFO - Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}
+2024-04-24 17:16:12,433 - INFO - Backup completed!
+2024-04-24 17:16:12,433 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:16:12,436 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:16:12,442 - INFO - Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}
+2024-04-24 17:16:12,442 - INFO - Backup completed!
+2024-04-24 17:16:12,443 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:16:12,444 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:16:12,451 - INFO - Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}
+2024-04-24 17:16:12,451 - INFO - Backup completed!
+2024-04-24 17:16:12,451 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:16:12,453 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:16:12,458 - INFO - Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}
+2024-04-24 17:16:12,459 - INFO - Backup completed!
+2024-04-24 17:20:32,446 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:20:32,454 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:20:32,471 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-24 17:20:32,471 - INFO - Backup completed!
+2024-04-24 17:20:32,471 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:20:32,472 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:20:32,474 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-24 17:20:32,474 - INFO - Backup completed!
+2024-04-24 17:20:32,474 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:20:32,475 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:20:32,478 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-24 17:20:32,478 - INFO - Backup completed!
+2024-04-24 17:20:32,478 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:20:32,479 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:20:32,486 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-24 17:20:32,486 - INFO - Backup completed!
+2024-04-24 17:22:15,865 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:22:15,870 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:22:15,881 - INFO - Number of files backing up: 1, Size of backup: 34
+2024-04-24 17:22:15,881 - INFO - Backup completed!
+2024-04-24 17:22:15,882 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:22:15,882 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:22:15,885 - INFO - Number of files backing up: 1, Size of backup: 34
+2024-04-24 17:22:15,885 - INFO - Backup completed!
+2024-04-24 17:22:15,885 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:22:15,886 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:22:15,889 - INFO - Number of files backing up: 1, Size of backup: 34
+2024-04-24 17:22:15,889 - INFO - Backup completed!
+2024-04-24 17:22:15,889 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:22:15,890 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:22:15,894 - INFO - Number of files backing up: 1, Size of backup: 34
+2024-04-24 17:22:15,894 - INFO - Backup completed!
+2024-04-24 17:22:41,018 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:22:41,028 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:25:39,458 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:25:39,465 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:26:34,895 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:26:34,903 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:26:34,921 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-24 17:26:34,921 - INFO - Backup completed!
+2024-04-24 17:26:34,921 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:26:34,923 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:26:34,928 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-24 17:26:34,928 - INFO - Backup completed!
+2024-04-24 17:26:34,929 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:26:34,930 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:26:34,936 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-24 17:26:34,936 - INFO - Backup completed!
+2024-04-24 17:26:34,936 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:26:34,938 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:26:34,943 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-24 17:26:34,943 - INFO - Backup completed!
+2024-04-24 17:27:34,065 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:27:34,072 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:27:34,098 - INFO - Number of files backing up: 1, Size of backup: 38
+2024-04-24 17:27:34,099 - INFO - Backup completed!
+2024-04-24 17:27:34,099 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:27:34,100 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:27:34,108 - INFO - Number of files backing up: 1, Size of backup: 38
+2024-04-24 17:27:34,109 - INFO - Backup completed!
+2024-04-24 17:27:34,109 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:27:34,110 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:27:34,121 - INFO - Number of files backing up: 1, Size of backup: 38
+2024-04-24 17:27:34,121 - INFO - Backup completed!
+2024-04-24 17:27:34,121 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:27:34,122 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:27:34,134 - INFO - Number of files backing up: 1, Size of backup: 38
+2024-04-24 17:27:34,134 - INFO - Backup completed!
+2024-04-24 17:28:49,655 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:28:49,664 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:28:49,687 - INFO - File encrypted successfully!
+2024-04-24 17:28:49,687 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:28:57,049 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-24 17:28:57,049 - INFO - Backup completed!
+2024-04-24 17:28:57,049 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:28:57,050 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:28:57,057 - INFO - File encrypted successfully!
+2024-04-24 17:28:57,057 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:28:58,913 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-24 17:28:58,913 - INFO - Backup completed!
+2024-04-24 17:28:58,913 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:28:58,914 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:28:58,928 - INFO - File encrypted successfully!
+2024-04-24 17:28:58,929 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:29:00,585 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-24 17:29:00,586 - INFO - Backup completed!
+2024-04-24 17:29:00,586 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:29:00,587 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:29:00,596 - INFO - File encrypted successfully!
+2024-04-24 17:29:00,597 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:29:02,562 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-24 17:29:02,562 - INFO - Backup completed!
+2024-04-24 17:30:27,172 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:30:27,174 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:30:27,187 - INFO - File encrypted successfully!
+2024-04-24 17:30:27,187 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:30:29,087 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-24 17:30:29,087 - INFO - Backup completed!
+2024-04-24 17:30:29,087 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:30:29,088 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:30:29,095 - INFO - File encrypted successfully!
+2024-04-24 17:30:29,095 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:30:31,137 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-24 17:30:31,137 - INFO - Backup completed!
+2024-04-24 17:30:31,137 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:30:31,137 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:30:31,144 - INFO - File encrypted successfully!
+2024-04-24 17:30:31,145 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:30:33,192 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-24 17:30:33,193 - INFO - Backup completed!
+2024-04-24 17:30:33,193 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:30:33,193 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:30:33,204 - INFO - File encrypted successfully!
+2024-04-24 17:30:33,204 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:30:35,157 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-24 17:30:35,157 - INFO - Backup completed!
+2024-04-24 17:31:53,048 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:31:53,049 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,053 - INFO - Number of files backing up: 3, Size of backup: 4167
+2024-04-24 17:31:53,053 - INFO - Backup completed!
+2024-04-24 17:31:53,054 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:31:53,054 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,060 - INFO - Number of files backing up: 3, Size of backup: 4167
+2024-04-24 17:31:53,060 - INFO - Backup completed!
+2024-04-24 17:31:53,060 - INFO - Event: IN_DELETE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:31:53,061 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,065 - INFO - Number of files backing up: 3, Size of backup: 4167
+2024-04-24 17:31:53,066 - INFO - Backup completed!
+2024-04-24 17:31:53,066 - INFO - Event: IN_DELETE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:31:53,067 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,074 - INFO - Number of files backing up: 3, Size of backup: 4167
+2024-04-24 17:31:53,074 - INFO - Backup completed!
+2024-04-24 17:31:53,074 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:31:53,075 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,079 - INFO - Number of files backing up: 3, Size of backup: 4167
+2024-04-24 17:31:53,079 - INFO - Backup completed!
+2024-04-24 17:31:53,079 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:31:53,080 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:31:53,088 - INFO - File encrypted successfully!
+2024-04-24 17:31:53,088 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:31:54,793 - INFO - Number of files backing up: 1, Size of backup: 4096
+2024-04-24 17:31:54,793 - INFO - Backup completed!
+2024-04-24 17:32:00,714 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:00,716 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:00,727 - INFO - File encrypted successfully!
+2024-04-24 17:32:00,727 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:32:11,832 - INFO - Number of files backing up: 1, Size of backup: 12288
+2024-04-24 17:32:11,832 - INFO - Backup completed!
+2024-04-24 17:32:11,832 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:11,833 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:11,837 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:11,837 - INFO - Backup completed!
+2024-04-24 17:32:11,837 - INFO - Event: IN_DELETE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:11,837 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:11,843 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:11,844 - INFO - Backup completed!
+2024-04-24 17:32:11,844 - INFO - Event: IN_MOVED_FROM Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:11,846 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:11,855 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:11,855 - INFO - Backup completed!
+2024-04-24 17:32:11,856 - INFO - Event: IN_MOVED_TO Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:11,857 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:11,866 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:11,867 - INFO - Backup completed!
+2024-04-24 17:32:11,867 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:11,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:11,878 - INFO - File encrypted successfully!
+2024-04-24 17:32:11,878 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:32:13,506 - INFO - Number of files backing up: 1, Size of backup: 12288
+2024-04-24 17:32:13,506 - INFO - Backup completed!
+2024-04-24 17:32:13,506 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:13,507 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:13,512 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:13,512 - INFO - Backup completed!
+2024-04-24 17:32:13,513 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:32:13,513 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:13,523 - INFO - File encrypted successfully!
+2024-04-24 17:32:13,523 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:32:15,446 - INFO - Number of files backing up: 1, Size of backup: 44
+2024-04-24 17:32:15,447 - INFO - Backup completed!
+2024-04-24 17:32:15,447 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:15,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:15,459 - INFO - File encrypted successfully!
+2024-04-24 17:32:15,460 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:32:17,222 - INFO - Number of files backing up: 1, Size of backup: 12288
+2024-04-24 17:32:17,222 - INFO - Backup completed!
+2024-04-24 17:32:17,222 - INFO - Event: IN_DELETE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:17,223 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:17,258 - INFO - Number of files backing up: 3, Size of backup: 12362
+2024-04-24 17:32:17,258 - INFO - Backup completed!
+2024-04-24 17:32:17,258 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:17,259 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:17,266 - INFO - File encrypted successfully!
+2024-04-24 17:32:17,266 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:32:19,272 - INFO - Number of files backing up: 1, Size of backup: 12288
+2024-04-24 17:32:19,272 - INFO - Backup completed!
+2024-04-24 17:32:19,272 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:19,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:19,287 - INFO - File encrypted successfully!
+2024-04-24 17:32:19,287 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-.watch2.txt.swp.tar.gz.gpg
+2024-04-24 17:32:20,964 - INFO - Number of files backing up: 1, Size of backup: 12288
+2024-04-24 17:32:20,964 - INFO - Backup completed!
+2024-04-24 17:32:25,846 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:25,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,851 - INFO - Number of files backing up: 4, Size of backup: 12414
+2024-04-24 17:32:25,851 - INFO - Backup completed!
+2024-04-24 17:32:25,851 - INFO - Event: IN_DELETE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:25,851 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,855 - INFO - Number of files backing up: 3, Size of backup: 12370
+2024-04-24 17:32:25,855 - INFO - Backup completed!
+2024-04-24 17:32:25,856 - INFO - Event: IN_MOVED_FROM Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:25,856 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,861 - INFO - Number of files backing up: 2, Size of backup: 82
+2024-04-24 17:32:25,861 - INFO - Backup completed!
+2024-04-24 17:32:25,861 - INFO - Event: IN_MOVED_TO Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:25,862 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,870 - INFO - Number of files backing up: 2, Size of backup: 82
+2024-04-24 17:32:25,870 - INFO - Backup completed!
+2024-04-24 17:32:25,870 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:32:25,871 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,876 - INFO - Number of files backing up: 2, Size of backup: 82
+2024-04-24 17:32:25,876 - INFO - Backup completed!
+2024-04-24 17:32:25,876 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:32:25,877 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:32:25,887 - INFO - File encrypted successfully!
+2024-04-24 17:32:25,888 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:32:27,502 - INFO - Number of files backing up: 1, Size of backup: 52
+2024-04-24 17:32:27,502 - INFO - Backup completed!
+2024-04-24 17:32:27,502 - INFO - Event: IN_MODIFY Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/.watch2.txt.swp
+2024-04-24 17:32:27,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:38:14,473 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:38:14,480 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:38:14,502 - INFO - Number of files backing up: 3, Size of backup: 82
+2024-04-24 17:38:14,503 - INFO - Backup completed!
+2024-04-24 17:40:41,517 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:40:41,521 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:40:41,538 - INFO - Number of files backing up: 4, Size of backup: 82
+2024-04-24 17:40:41,538 - INFO - Backup completed!
+2024-04-24 17:43:39,601 - INFO - Event: IN_CREATE Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:43:39,605 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:43:39,633 - INFO - File encrypted successfully!
+2024-04-24 17:43:39,633 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-hi.tar.gz.gpg
+2024-04-24 17:43:41,928 - INFO - File encrypted successfully!
+2024-04-24 17:43:41,928 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-create.tar.gz.gpg
+2024-04-24 17:43:43,764 - INFO - File encrypted successfully!
+2024-04-24 17:43:43,764 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:43:45,793 - INFO - File encrypted successfully!
+2024-04-24 17:43:45,793 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-bro.tar.gz.gpg
+2024-04-24 17:43:47,669 - INFO - File encrypted successfully!
+2024-04-24 17:43:47,669 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-w-watch.txt.tar.gz.gpg
+2024-04-24 17:43:49,434 - INFO - Number of files backing up: 5, Size of backup: 82
+2024-04-24 17:43:49,434 - INFO - Backup completed!
+2024-04-24 17:44:07,221 - INFO - Event: IN_MOVED_FROM Path: /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir
+2024-04-24 17:44:07,222 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-24 17:44:07,235 - INFO - File encrypted successfully!
+2024-04-24 17:44:07,235 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-hi.tar.gz.gpg
+2024-04-24 17:44:09,085 - INFO - File encrypted successfully!
+2024-04-24 17:44:09,085 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-24 17:44:11,019 - INFO - File encrypted successfully!
+2024-04-24 17:44:11,019 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-bro.tar.gz.gpg
+2024-04-24 17:44:12,737 - INFO - File encrypted successfully!
+2024-04-24 17:44:12,738 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-prakhar-Desktop-3-2-Software Engineering-Projects-SE_Project_3-src-phoenix-Observation-watchDir-w-watch.txt.tar.gz.gpg
+2024-04-24 17:44:14,499 - INFO - Number of files backing up: 4, Size of backup: 82
+2024-04-24 17:44:14,500 - INFO - Backup completed!
+2024-04-24 17:44:32,305 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/w WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:44:32,306 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:44:32,306 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/hi WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/create WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:44:32,307 - ERROR - add_watch: cannot watch /home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)
