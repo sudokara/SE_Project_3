@@ -1,7 +1,7 @@
 # uploader.py
 from __future__ import annotations
 from abc import ABC
-from Strategy import UploadDownloadStrategy
+from phoenix.Uploader.Strategy import UploadDownloadStrategy
 
 
 class Uploader():

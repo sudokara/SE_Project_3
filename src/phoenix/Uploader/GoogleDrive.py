@@ -1,5 +1,5 @@
 # google_drive_upload.py
-from Strategy import UploadDownloadStrategy
+from phoenix.Uploader.Strategy import UploadDownloadStrategy
 from google.oauth2.credentials import Credentials
 from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
@@ -9,7 +9,7 @@ from googleapiclient.http import MediaIoBaseDownload
 import os
 import io
 import pandas as pd
-from utils.Logger import logger
+from phoenix.utils.Logger import logger
 
 # PATH_TO_CREDENTIALS = '/home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/Uploader/credentials.json'
 
@@ -96,7 +96,7 @@ class GoogleDrive(UploadDownloadStrategy):
                 creds.refresh(Request())
             else:
                 flow = InstalledAppFlow.from_client_secrets_file(
-                    'credentials.json', SCOPES)
+                    '/home/maggy/SE/project_3/SE_Project_3/src/phoenix/Uploader/credentials.json', SCOPES)
                 creds = flow.run_local_server(port=0)
             # Save the credentials for the next run
             with open('token.json', 'w') as token:

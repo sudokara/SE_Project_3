@@ -1,0 +1,10 @@
+2024-04-24 16:58:26,735 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:03:07,877 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/w WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:03:07,878 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:03:07,878 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:03:07,881 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:04:56,539 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-24 17:07:40,657 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/w WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:07:40,657 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:07:40,658 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt WD=-1, Errno=Invalid argument (EINVAL)
+2024-04-24 17:07:40,662 - ERROR - add_watch: cannot watch /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/w/watch.txt WD=-1, Errno=Invalid argument (EINVAL)

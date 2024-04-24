@@ -2,6 +2,7 @@ from phoenix.Compression_Encryption.IEncryptionStrategy import IEncryptionStrate
 from phoenix.Compression_Encryption.GPGSingleton import GPGSingleton
 import os
 import getpass
+from phoenix.utils.Logger import logger
 
 class GPGEncryptionStrategy(IEncryptionStrategy):
     def encrypt(self, file_path, key, *args, **kwargs):
@@ -21,6 +22,7 @@ class GPGEncryptionStrategy(IEncryptionStrategy):
                 )
             if status.ok:
                 # print("File encrypted successfully.")
+                logger.info("File encrypted successfully!")
                 pass
             else:
                 print("Encryption failed:", status.stderr)

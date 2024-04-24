@@ -1,5 +1,5 @@
 # one_drive_upload.py
-from Strategy import UploadDownloadStrategy
+from phoenix.Uploader.Strategy import UploadDownloadStrategy
 import requests
 from msal import PublicClientApplication
 import time
