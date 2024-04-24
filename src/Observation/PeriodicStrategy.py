@@ -1,6 +1,6 @@
 from ObservationStrategy import ObservationStrategy
 from time import time
-from .. import Path
+from . import Path
 from EventHandler import EventHandler
 
 class Periodic(ObservationStrategy):
