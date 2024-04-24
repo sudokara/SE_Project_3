@@ -28,7 +28,7 @@ class WatchDirComposite(WatchDirComponent):
     def get_size(self):
         total_size = 0
         for item in self.contents:
-            total_size += item.get_storage_size()
+            total_size += item.get_size()
         return total_size
     
     def get_dirname(self):

@@ -15,8 +15,13 @@ class EventHandler(pyinotify.ProcessEvent):
     def backup(self, absolutePath, maskname):
 
         if os.path.isdir(absolutePath):
-            broker = Broker()
-            encrypted_path = broker.backup(absolutePath, False)
+            print(maskname)
+
+            try:
+                broker = Broker()
+                encrypted_path = broker.backup(absolutePath, True)
+            except Exception as e:
+                print("Exception: ", e)
 
             num_files_backing_up = WatchDirComposite(absolutePath).get_num_files()
             size_backing_up = WatchDirComposite(absolutePath).get_size()

@@ -20,7 +20,8 @@ class GPGEncryptionStrategy(IEncryptionStrategy):
                     armor=False
                 )
             if status.ok:
-                print("File encrypted successfully.")
+                # print("File encrypted successfully.")
+                pass
             else:
                 print("Encryption failed:", status.stderr)
         return output_path

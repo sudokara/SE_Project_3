@@ -237,6 +237,10 @@ class CLI:
         
 
     def remove_watch_directory(self):
+        if self.backup is True:
+            print("Stop backup before configuration")
+            return
+        
         path = input("Enter path to remove from watch directory: ")
         directories = self.state.get_watch_directories()
         if path in directories:
@@ -256,11 +260,12 @@ class CLI:
 
     def start_observing(self):
 
-        self.backup = True
-        print(BOLD1 + "\nMonitoring has started\n" + BOLD2)
-        
-        self.process = Process(target=self.__oManager.start, args=(self.state,))
-        self.process.start()
+        if self.backup is False:
+            self.backup = True
+            print(BOLD1 + "\nMonitoring has started\n" + BOLD2)
+            
+            self.process = Process(target=self.__oManager.start, args=(self.state,))
+            self.process.start()
 
 
     def stop_observing(self):

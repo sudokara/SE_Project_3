@@ -57,4 +57,4 @@ class Uploader():
         """
 
         print(f"Uploader: Downloading file from {self._strategy.get_name()}")
-        self._strategy.download(file_path, kwargs['file_id'])
+        self._strategy.download(file_path, **kwargs)
