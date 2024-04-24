@@ -5,11 +5,26 @@ from msal import PublicClientApplication
 import time
 import os
 import pandas as pd
+from utils.Logger import logger
 
 
 class OneDrive(UploadDownloadStrategy):
     def __init__(self, siteName, sites, domain, onedrive_path, client_id, authority) -> None:
         super().__init__()
+
+        if siteName is None:
+            raise ValueError("Site Name cannot be None")
+        if sites is None:
+            raise ValueError("Sites cannot be None")
+        if domain is None:
+            raise ValueError("Domain cannot be None")
+        if onedrive_path is None:
+            raise ValueError("OneDrive Path cannot be None")
+        if client_id is None:
+            raise ValueError("Client ID cannot be None")
+        if authority is None:
+            raise ValueError("Authority cannot be None")
+
         self.domain = domain
         self.sites = sites
         self.siteName = siteName
@@ -24,11 +39,16 @@ class OneDrive(UploadDownloadStrategy):
         return "OneDrive"
 
     def upload(self, file_path: str) -> None:
-        # print(f"Uploading file to OneDrive: {file_path}")
+        if file_path is None:
+            raise ValueError("File path cannot be None")
+        logger.info(f"Uploading file to OneDrive: {file_path}")
         self._onedrive_file_upload(file_path)
 
     def download(self, filename: str) -> None:
-        # print(f"Downloading file from OneDrive: {file_path}")
+        if filename is None:
+            raise ValueError("Filename cannot be None")
+
+        logger.info(f"Downloading file from OneDrive: {filename}")
         self._onedrive_file_download(filename)
 
     def getEndpoint(self, access_token, domain, sites, siteName, path):
@@ -63,7 +83,8 @@ class OneDrive(UploadDownloadStrategy):
             access_token = self.token_response['access_token']
 
             filename = os.path.basename(localFile)
-            time_filename = pd.Timestamp.now().strftime('%Y-%m-%d_%H-%M-%S') + '_' + filename
+            time_filename = pd.Timestamp.now().strftime(
+                '%Y-%m-%d_%H-%M-%S') + '_' + filename
             path = os.path.join(self.onedrive_path, time_filename)
 
             endpoint = self.getEndpoint(access_token, self.domain,
@@ -83,8 +104,8 @@ class OneDrive(UploadDownloadStrategy):
                 endpoint, headers=headers, data=file_content)
 
             if response.status_code == 201:
-                print("File uploaded successfully.")
-                # print(response.json())
+                logger.info("File uploaded successfully.")
+                # logger.info(response.json())
                 # Log the uploaded file in the CSV
                 df = pd.DataFrame({'File Name': [filename], 'Time Stamp File Name': [
                                   time_filename], 'time': [pd.Timestamp.now()]})
@@ -94,13 +115,13 @@ class OneDrive(UploadDownloadStrategy):
                 else:
                     df.to_csv(csv_file, mode='a', header=False, index=False)
             elif response.status_code == 200:
-                print("Failed to upload file. File already exists.")
+                logger.info("Failed to upload file. File already exists.")
             else:
-                print("Failed to upload file.")
-                print(response.status_code, response.text)
+                logger.info("Failed to upload file.")
+                logger.info(response.status_code, response.text)
         else:
-            print("Failed to obtain token.")
-            print(self.token_response.get("error"),
+            logger.info("Failed to obtain token.")
+            logger.info(self.token_response.get("error"),
                   self.token_response.get("error_description"))
 
     def _onedrive_file_download(self, filename):
@@ -124,13 +145,13 @@ class OneDrive(UploadDownloadStrategy):
                 with open(filename, 'wb') as f:
                     for chunk in response.iter_content(chunk_size=8192):
                         f.write(chunk)
-                print("File downloaded successfully.")
+                logger.info("File downloaded successfully.")
             else:
-                print("Failed to download file.")
-                print(response.status_code, response.text)
+                logger.info("Failed to download file.")
+                logger.info(response.status_code, response.text)
         else:
-            print("Failed to obtain token.")
-            print(self.token_response.get("error"),
+            logger.info("Failed to obtain token.")
+            logger.info(self.token_response.get("error"),
                   self.token_response.get("error_description"))
 
     def _token_is_expired(self, token_response):

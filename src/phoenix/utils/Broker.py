@@ -10,16 +10,22 @@ from phoenix.Compression_Encryption.GPGKeyStrategy import GPGKeyStrategy
 from phoenix.Compression_Encryption.TarCompressionStrategy import TarCompressionStrategy
 from phoenix.Compression_Encryption.GPGEncryptionStrategy import GPGEncryptionStrategy
 from phoenix.utils.SingletonMeta import SingletonMeta
+from phoenix.Uploader import Uploader
+
 
 class Broker(metaclass=SingletonMeta):
-    def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy()) -> None:
-
+    def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy(), uploadDownloadStrategy: Uploader = None) -> None:
+        if uploadDownloadStrategy is None:
+            raise ValueError("UploadDownloadStrategy cannot be None")
         self.__keyManager = KeyManager(keyStrategy)
-        self.__ceManager = CEManager(compressionStrategy, encryptionStrategy, self.__keyManager)
+        self.__ceManager = CEManager(
+            compressionStrategy, encryptionStrategy, self.__keyManager)
+        self.__uploadDownloadStrategy = uploadDownloadStrategy
 
     def backup(self, file_path, is_file):
         compressed_path = self.__ceManager.compress(file_path, is_file)
-        encrypted_path = self.__ceManager.encrypt(compressed_path, self.__keyManager.get_key(), is_file)
+        encrypted_path = self.__ceManager.encrypt(
+            compressed_path, self.__keyManager.get_key(), is_file)
         return encrypted_path
 
     def set_key_strategy(self, keyStrategy):
@@ -30,3 +36,8 @@ class Broker(metaclass=SingletonMeta):
 
     def set_encryption_strategy(self, encryptionStrategy):
         self.__ceManager.setEncryptionStrategy(encryptionStrategy)
+
+    def upload(self, filepath):
+        self.__uploadDownloadStrategy.upload(filepath)
+    def download(self, filepath, **kwargs):
+        self.__uploadDownloadStrategy.download(filepath, **kwargs)

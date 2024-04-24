@@ -9,6 +9,7 @@ from googleapiclient.http import MediaIoBaseDownload
 import os
 import io
 import pandas as pd
+from utils.Logger import logger
 
 # PATH_TO_CREDENTIALS = '/home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/Uploader/credentials.json'
 
@@ -16,18 +17,27 @@ import pandas as pd
 class GoogleDrive(UploadDownloadStrategy):
     def __init__(self, folder_id) -> None:
         super().__init__()
+        if folder_id is None:
+            raise ValueError("Folder ID cannot be None")
         self._folder_id = folder_id
+
         self._service = self._get_service()
 
     def get_name(self) -> str:
         return "Google Drive"
 
     def upload(self, file_path: str) -> None:
-        print(f"Uploading file to Google Drive: {file_path}")
+        if file_path is None:
+            raise ValueError("File path cannot be None")
+        logger.info(f"Uploading file to Google Drive: {file_path}")
         self._gdrive_file_upload(file_path, self._folder_id)
 
     def download(self, file_path: str, file_id) -> None:
-        print(f"Downloading file from Google Drive: {file_path}")
+        if file_path is None:
+            raise ValueError("File path cannot be None")
+        if file_id is None:
+            raise ValueError("File ID cannot be None")
+        logger.info(f"Downloading file from Google Drive: {file_path}")
         self._gdrive_file_download(file_path, file_id)
 
     def _gdrive_file_upload(self, filename, gdrive_folder_id):
@@ -35,12 +45,13 @@ class GoogleDrive(UploadDownloadStrategy):
         file_metadata = {'name': filename, 'parents': [gdrive_folder_id]}
         media = MediaFileUpload(filename, mimetype='application/zip')
         file = self._service.files().create(body=file_metadata,
-                                      media_body=media,
-                                      fields='id').execute()
+                                            media_body=media,
+                                            fields='id').execute()
         file_id = file.get('id')
-        
-        new_data = pd.DataFrame({'File Name': [filename], 'File ID': [file_id], 'time': [pd.Timestamp.now()]})
-        
+
+        new_data = pd.DataFrame({'File Name': [filename], 'File ID': [
+                                file_id], 'time': [pd.Timestamp.now()]})
+
         csv_file = 'gdrive_log.csv'
 
         # Check if the file exists
@@ -48,13 +59,12 @@ class GoogleDrive(UploadDownloadStrategy):
             new_data.to_csv(csv_file, index=False)
         else:
             new_data.to_csv(csv_file, mode='a', header=False, index=False)
-        
 
         # df = pd.DataFrame(columns=['File Name', 'File ID', 'time'])
-        # print(filename, file_id, pd.Timestamp.now())
+        # logger.info(filename, file_id, pd.Timestamp.now())
 
         # df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'File ID': [file_id], 'time': [pd.Timestamp.now()]})], ignore_index=True)
-        
+
         return file.get('id')
 
     def _gdrive_file_download(self, file_path, file_id):
@@ -67,10 +77,10 @@ class GoogleDrive(UploadDownloadStrategy):
         done = False
         while not done:
             status, done = downloader.next_chunk()
-            print("Download Progress: {0}".format(status.progress() * 100))
+            logger.info("Download Progress: {0}".format(status.progress() * 100))
 
         fh.close()
-        print("File has been downloaded successfully.")
+        logger.info("File has been downloaded successfully.")
 
     def _get_service(self):
         SCOPES = ['https://www.googleapis.com/auth/drive.file']
