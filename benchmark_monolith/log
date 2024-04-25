@@ -1,0 +1,1400 @@
+2024-04-25 04:39:09,298 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:09,303 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:09,312 - INFO - File encrypted successfully!
+2024-04-25 04:39:09,312 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:09,312 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:11,562 - INFO - Number of files backing up: 1, Size of backup: 1
+2024-04-25 04:39:11,565 - INFO - Backup completed!
+2024-04-25 04:39:11,565 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:11,565 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:11,571 - INFO - File encrypted successfully!
+2024-04-25 04:39:11,571 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:11,571 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:13,405 - INFO - Number of files backing up: 1, Size of backup: 1
+2024-04-25 04:39:13,405 - INFO - Backup completed!
+2024-04-25 04:39:14,298 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:14,300 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:14,310 - INFO - File encrypted successfully!
+2024-04-25 04:39:14,310 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:14,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:16,171 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 04:39:16,171 - INFO - Backup completed!
+2024-04-25 04:39:16,171 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:16,172 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:16,184 - INFO - File encrypted successfully!
+2024-04-25 04:39:16,184 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:16,184 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:18,071 - INFO - Number of files backing up: 1, Size of backup: 2
+2024-04-25 04:39:18,071 - INFO - Backup completed!
+2024-04-25 04:39:19,299 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:19,300 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:19,308 - INFO - File encrypted successfully!
+2024-04-25 04:39:19,308 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:19,309 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:21,968 - INFO - Number of files backing up: 1, Size of backup: 3
+2024-04-25 04:39:21,968 - INFO - Backup completed!
+2024-04-25 04:39:21,968 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:21,969 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:21,976 - INFO - File encrypted successfully!
+2024-04-25 04:39:21,976 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:21,976 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:23,582 - INFO - Number of files backing up: 1, Size of backup: 3
+2024-04-25 04:39:23,582 - INFO - Backup completed!
+2024-04-25 04:39:24,299 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:24,301 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:24,309 - INFO - File encrypted successfully!
+2024-04-25 04:39:24,310 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:24,310 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:26,909 - INFO - Number of files backing up: 1, Size of backup: 4
+2024-04-25 04:39:26,909 - INFO - Backup completed!
+2024-04-25 04:39:26,909 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:26,911 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:26,921 - INFO - File encrypted successfully!
+2024-04-25 04:39:26,922 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:26,922 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:28,879 - INFO - Number of files backing up: 1, Size of backup: 4
+2024-04-25 04:39:28,879 - INFO - Backup completed!
+2024-04-25 04:39:29,299 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:29,301 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:29,311 - INFO - File encrypted successfully!
+2024-04-25 04:39:29,311 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:29,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:31,143 - INFO - Number of files backing up: 1, Size of backup: 5
+2024-04-25 04:39:31,143 - INFO - Backup completed!
+2024-04-25 04:39:31,143 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:31,144 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:31,148 - INFO - File encrypted successfully!
+2024-04-25 04:39:31,148 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:31,148 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:32,992 - INFO - Number of files backing up: 1, Size of backup: 5
+2024-04-25 04:39:32,993 - INFO - Backup completed!
+2024-04-25 04:39:34,300 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:34,301 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:34,313 - INFO - File encrypted successfully!
+2024-04-25 04:39:34,313 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:34,313 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:36,217 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-25 04:39:36,217 - INFO - Backup completed!
+2024-04-25 04:39:36,217 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:36,218 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:36,226 - INFO - File encrypted successfully!
+2024-04-25 04:39:36,226 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:36,226 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:38,125 - INFO - Number of files backing up: 1, Size of backup: 6
+2024-04-25 04:39:38,125 - INFO - Backup completed!
+2024-04-25 04:39:39,300 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:39,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:39,311 - INFO - File encrypted successfully!
+2024-04-25 04:39:39,311 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:39,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:41,158 - INFO - Number of files backing up: 1, Size of backup: 7
+2024-04-25 04:39:41,158 - INFO - Backup completed!
+2024-04-25 04:39:41,159 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:41,160 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:41,172 - INFO - File encrypted successfully!
+2024-04-25 04:39:41,172 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:41,172 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:43,427 - INFO - Number of files backing up: 1, Size of backup: 7
+2024-04-25 04:39:43,427 - INFO - Backup completed!
+2024-04-25 04:39:44,300 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:44,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:44,310 - INFO - File encrypted successfully!
+2024-04-25 04:39:44,310 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:44,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:46,299 - INFO - Number of files backing up: 1, Size of backup: 8
+2024-04-25 04:39:46,299 - INFO - Backup completed!
+2024-04-25 04:39:46,299 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:46,300 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:46,311 - INFO - File encrypted successfully!
+2024-04-25 04:39:46,311 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:46,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:48,342 - INFO - Number of files backing up: 1, Size of backup: 8
+2024-04-25 04:39:48,343 - INFO - Backup completed!
+2024-04-25 04:39:49,301 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:49,302 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:49,313 - INFO - File encrypted successfully!
+2024-04-25 04:39:49,313 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:49,313 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:51,308 - INFO - Number of files backing up: 1, Size of backup: 9
+2024-04-25 04:39:51,308 - INFO - Backup completed!
+2024-04-25 04:39:51,308 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:51,309 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:51,316 - INFO - File encrypted successfully!
+2024-04-25 04:39:51,316 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:51,316 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:39:59,672 - INFO - Number of files backing up: 1, Size of backup: 11
+2024-04-25 04:39:59,672 - INFO - Backup completed!
+2024-04-25 04:39:59,672 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:39:59,672 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:39:59,676 - INFO - File encrypted successfully!
+2024-04-25 04:39:59,676 - INFO - Uploading file to Google Drive
+2024-04-25 04:39:59,676 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:01,751 - INFO - Number of files backing up: 1, Size of backup: 11
+2024-04-25 04:40:01,751 - INFO - Backup completed!
+2024-04-25 04:40:01,751 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:01,752 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:01,757 - INFO - File encrypted successfully!
+2024-04-25 04:40:01,757 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:01,757 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:03,800 - INFO - Number of files backing up: 1, Size of backup: 11
+2024-04-25 04:40:03,800 - INFO - Backup completed!
+2024-04-25 04:40:03,800 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:03,801 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:03,805 - INFO - File encrypted successfully!
+2024-04-25 04:40:03,805 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:03,805 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:10,761 - INFO - Number of files backing up: 1, Size of backup: 13
+2024-04-25 04:40:10,761 - INFO - Backup completed!
+2024-04-25 04:40:10,761 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:10,762 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:10,766 - INFO - File encrypted successfully!
+2024-04-25 04:40:10,766 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:10,766 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:22,126 - INFO - Number of files backing up: 1, Size of backup: 15
+2024-04-25 04:40:22,126 - INFO - Backup completed!
+2024-04-25 04:40:22,126 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:22,128 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:22,138 - INFO - File encrypted successfully!
+2024-04-25 04:40:22,138 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:22,138 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:23,868 - INFO - Number of files backing up: 1, Size of backup: 15
+2024-04-25 04:40:23,868 - INFO - Backup completed!
+2024-04-25 04:40:23,868 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:23,869 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:23,914 - INFO - File encrypted successfully!
+2024-04-25 04:40:23,914 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:23,914 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:25,579 - INFO - Number of files backing up: 1, Size of backup: 16
+2024-04-25 04:40:25,579 - INFO - Backup completed!
+2024-04-25 04:40:25,579 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:25,580 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:25,590 - INFO - File encrypted successfully!
+2024-04-25 04:40:25,590 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:25,591 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:27,427 - INFO - Number of files backing up: 1, Size of backup: 16
+2024-04-25 04:40:27,427 - INFO - Backup completed!
+2024-04-25 04:40:27,427 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:27,428 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:27,441 - INFO - File encrypted successfully!
+2024-04-25 04:40:27,442 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:27,442 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:29,425 - INFO - Number of files backing up: 1, Size of backup: 17
+2024-04-25 04:40:29,425 - INFO - Backup completed!
+2024-04-25 04:40:29,426 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:29,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:29,438 - INFO - File encrypted successfully!
+2024-04-25 04:40:29,438 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:29,438 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:31,335 - INFO - Number of files backing up: 1, Size of backup: 17
+2024-04-25 04:40:31,335 - INFO - Backup completed!
+2024-04-25 04:40:31,336 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:31,337 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:31,347 - INFO - File encrypted successfully!
+2024-04-25 04:40:31,347 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:31,347 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:33,511 - INFO - Number of files backing up: 1, Size of backup: 17
+2024-04-25 04:40:33,511 - INFO - Backup completed!
+2024-04-25 04:40:33,511 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:33,512 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:33,522 - INFO - File encrypted successfully!
+2024-04-25 04:40:33,522 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:33,522 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:35,445 - INFO - Number of files backing up: 1, Size of backup: 18
+2024-04-25 04:40:35,445 - INFO - Backup completed!
+2024-04-25 04:40:35,445 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:35,447 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:35,456 - INFO - File encrypted successfully!
+2024-04-25 04:40:35,456 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:35,456 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:37,245 - INFO - Number of files backing up: 1, Size of backup: 18
+2024-04-25 04:40:37,245 - INFO - Backup completed!
+2024-04-25 04:40:37,245 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:37,246 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:37,256 - INFO - File encrypted successfully!
+2024-04-25 04:40:37,256 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:37,256 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:39,134 - INFO - Number of files backing up: 1, Size of backup: 18
+2024-04-25 04:40:39,134 - INFO - Backup completed!
+2024-04-25 04:40:39,134 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:39,136 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:39,145 - INFO - File encrypted successfully!
+2024-04-25 04:40:39,145 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:39,145 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:41,050 - INFO - Number of files backing up: 1, Size of backup: 19
+2024-04-25 04:40:41,051 - INFO - Backup completed!
+2024-04-25 04:40:41,051 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:41,052 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:41,062 - INFO - File encrypted successfully!
+2024-04-25 04:40:41,062 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:41,062 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:48,778 - INFO - Number of files backing up: 1, Size of backup: 20
+2024-04-25 04:40:48,778 - INFO - Backup completed!
+2024-04-25 04:40:48,779 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:48,779 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:48,786 - INFO - File encrypted successfully!
+2024-04-25 04:40:48,786 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:48,786 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:50,611 - INFO - Number of files backing up: 1, Size of backup: 21
+2024-04-25 04:40:50,611 - INFO - Backup completed!
+2024-04-25 04:40:50,611 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:50,613 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:50,617 - INFO - File encrypted successfully!
+2024-04-25 04:40:50,618 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:50,618 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:52,354 - INFO - Number of files backing up: 1, Size of backup: 21
+2024-04-25 04:40:52,354 - INFO - Backup completed!
+2024-04-25 04:40:52,354 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:52,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:52,362 - INFO - File encrypted successfully!
+2024-04-25 04:40:52,362 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:52,362 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:54,405 - INFO - Number of files backing up: 1, Size of backup: 22
+2024-04-25 04:40:54,405 - INFO - Backup completed!
+2024-04-25 04:40:54,405 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:54,406 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:54,413 - INFO - File encrypted successfully!
+2024-04-25 04:40:54,413 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:54,413 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:56,354 - INFO - Number of files backing up: 1, Size of backup: 22
+2024-04-25 04:40:56,355 - INFO - Backup completed!
+2024-04-25 04:40:56,355 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:56,355 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:56,360 - INFO - File encrypted successfully!
+2024-04-25 04:40:56,360 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:56,360 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:58,207 - INFO - Number of files backing up: 1, Size of backup: 22
+2024-04-25 04:40:58,207 - INFO - Backup completed!
+2024-04-25 04:40:58,207 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:58,208 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:58,212 - INFO - File encrypted successfully!
+2024-04-25 04:40:58,212 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:58,212 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:40:59,885 - INFO - Number of files backing up: 1, Size of backup: 23
+2024-04-25 04:40:59,885 - INFO - Backup completed!
+2024-04-25 04:40:59,885 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:40:59,887 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:40:59,897 - INFO - File encrypted successfully!
+2024-04-25 04:40:59,897 - INFO - Uploading file to Google Drive
+2024-04-25 04:40:59,897 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:01,677 - INFO - Number of files backing up: 1, Size of backup: 23
+2024-04-25 04:41:01,677 - INFO - Backup completed!
+2024-04-25 04:41:01,678 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:01,679 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:01,689 - INFO - File encrypted successfully!
+2024-04-25 04:41:01,689 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:01,689 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:03,575 - INFO - Number of files backing up: 1, Size of backup: 23
+2024-04-25 04:41:03,575 - INFO - Backup completed!
+2024-04-25 04:41:03,575 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:03,575 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:03,581 - INFO - File encrypted successfully!
+2024-04-25 04:41:03,582 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:03,582 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:05,878 - INFO - Number of files backing up: 1, Size of backup: 24
+2024-04-25 04:41:05,878 - INFO - Backup completed!
+2024-04-25 04:41:05,878 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:05,879 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:05,885 - INFO - File encrypted successfully!
+2024-04-25 04:41:05,885 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:05,885 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:07,777 - INFO - Number of files backing up: 1, Size of backup: 24
+2024-04-25 04:41:07,777 - INFO - Backup completed!
+2024-04-25 04:41:07,777 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:07,778 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:07,782 - INFO - File encrypted successfully!
+2024-04-25 04:41:07,782 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:07,782 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:09,775 - INFO - Number of files backing up: 1, Size of backup: 25
+2024-04-25 04:41:09,775 - INFO - Backup completed!
+2024-04-25 04:41:09,776 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:09,776 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:09,781 - INFO - File encrypted successfully!
+2024-04-25 04:41:09,781 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:09,781 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:12,126 - INFO - Number of files backing up: 1, Size of backup: 25
+2024-04-25 04:41:12,126 - INFO - Backup completed!
+2024-04-25 04:41:12,126 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:12,128 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:12,133 - INFO - File encrypted successfully!
+2024-04-25 04:41:12,133 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:12,133 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:20,623 - INFO - Number of files backing up: 1, Size of backup: 27
+2024-04-25 04:41:20,623 - INFO - Backup completed!
+2024-04-25 04:41:20,623 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:20,624 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:20,633 - INFO - File encrypted successfully!
+2024-04-25 04:41:20,633 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:20,633 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:22,678 - INFO - Number of files backing up: 1, Size of backup: 27
+2024-04-25 04:41:22,678 - INFO - Backup completed!
+2024-04-25 04:41:22,678 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:22,679 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:22,687 - INFO - File encrypted successfully!
+2024-04-25 04:41:22,687 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:22,688 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:24,559 - INFO - Number of files backing up: 1, Size of backup: 28
+2024-04-25 04:41:24,559 - INFO - Backup completed!
+2024-04-25 04:41:24,559 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:24,559 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:24,563 - INFO - File encrypted successfully!
+2024-04-25 04:41:24,563 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:24,563 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:26,347 - INFO - Number of files backing up: 1, Size of backup: 28
+2024-04-25 04:41:26,348 - INFO - Backup completed!
+2024-04-25 04:41:26,348 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:26,349 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:26,359 - INFO - File encrypted successfully!
+2024-04-25 04:41:26,359 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:26,359 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:28,367 - INFO - Number of files backing up: 1, Size of backup: 28
+2024-04-25 04:41:28,367 - INFO - Backup completed!
+2024-04-25 04:41:28,367 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:28,369 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:28,374 - INFO - File encrypted successfully!
+2024-04-25 04:41:28,374 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:28,374 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:30,234 - INFO - Number of files backing up: 1, Size of backup: 29
+2024-04-25 04:41:30,234 - INFO - Backup completed!
+2024-04-25 04:41:30,234 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:30,235 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:30,246 - INFO - File encrypted successfully!
+2024-04-25 04:41:30,246 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:30,246 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:32,162 - INFO - Number of files backing up: 1, Size of backup: 29
+2024-04-25 04:41:32,162 - INFO - Backup completed!
+2024-04-25 04:41:32,162 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:32,163 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:32,173 - INFO - File encrypted successfully!
+2024-04-25 04:41:32,173 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:32,173 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:33,944 - INFO - Number of files backing up: 1, Size of backup: 29
+2024-04-25 04:41:33,944 - INFO - Backup completed!
+2024-04-25 04:41:33,945 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:33,945 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:33,950 - INFO - File encrypted successfully!
+2024-04-25 04:41:33,950 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:33,950 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:35,929 - INFO - Number of files backing up: 1, Size of backup: 30
+2024-04-25 04:41:35,929 - INFO - Backup completed!
+2024-04-25 04:41:35,930 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:35,931 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:35,938 - INFO - File encrypted successfully!
+2024-04-25 04:41:35,938 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:35,938 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:38,464 - INFO - Number of files backing up: 1, Size of backup: 30
+2024-04-25 04:41:38,464 - INFO - Backup completed!
+2024-04-25 04:41:38,465 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:38,466 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:38,470 - INFO - File encrypted successfully!
+2024-04-25 04:41:38,470 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:38,470 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:49,975 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-25 04:41:49,975 - INFO - Backup completed!
+2024-04-25 04:41:49,976 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:49,977 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:49,988 - INFO - File encrypted successfully!
+2024-04-25 04:41:49,988 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:49,988 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:51,779 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-25 04:41:51,779 - INFO - Backup completed!
+2024-04-25 04:41:51,779 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:51,781 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:51,791 - INFO - File encrypted successfully!
+2024-04-25 04:41:51,792 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:51,792 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:53,713 - INFO - Number of files backing up: 1, Size of backup: 33
+2024-04-25 04:41:53,713 - INFO - Backup completed!
+2024-04-25 04:41:53,713 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:53,713 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:53,719 - INFO - File encrypted successfully!
+2024-04-25 04:41:53,719 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:53,719 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:41:55,557 - INFO - Number of files backing up: 1, Size of backup: 34
+2024-04-25 04:41:55,557 - INFO - Backup completed!
+2024-04-25 04:41:55,557 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:41:55,558 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:41:55,569 - INFO - File encrypted successfully!
+2024-04-25 04:41:55,569 - INFO - Uploading file to Google Drive
+2024-04-25 04:41:55,570 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:05,491 - INFO - Number of files backing up: 1, Size of backup: 36
+2024-04-25 04:42:05,491 - INFO - Backup completed!
+2024-04-25 04:42:05,491 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:05,492 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:05,496 - INFO - File encrypted successfully!
+2024-04-25 04:42:05,496 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:05,496 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:07,439 - INFO - Number of files backing up: 1, Size of backup: 36
+2024-04-25 04:42:07,439 - INFO - Backup completed!
+2024-04-25 04:42:07,439 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:07,440 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:07,451 - INFO - File encrypted successfully!
+2024-04-25 04:42:07,452 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:07,452 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:09,383 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-25 04:42:09,383 - INFO - Backup completed!
+2024-04-25 04:42:09,383 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:09,384 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:09,389 - INFO - File encrypted successfully!
+2024-04-25 04:42:09,390 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:09,390 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:11,180 - INFO - Number of files backing up: 1, Size of backup: 37
+2024-04-25 04:42:11,180 - INFO - Backup completed!
+2024-04-25 04:42:11,180 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:11,181 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:11,187 - INFO - File encrypted successfully!
+2024-04-25 04:42:11,187 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:11,187 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:18,266 - INFO - Number of files backing up: 1, Size of backup: 38
+2024-04-25 04:42:18,266 - INFO - Backup completed!
+2024-04-25 04:42:18,266 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:18,267 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:18,273 - INFO - File encrypted successfully!
+2024-04-25 04:42:18,273 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:18,273 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:19,803 - INFO - Number of files backing up: 1, Size of backup: 39
+2024-04-25 04:42:19,803 - INFO - Backup completed!
+2024-04-25 04:42:19,803 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:19,804 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:19,815 - INFO - File encrypted successfully!
+2024-04-25 04:42:19,815 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:19,815 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:26,512 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-25 04:42:26,512 - INFO - Backup completed!
+2024-04-25 04:42:26,512 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:26,513 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:26,521 - INFO - File encrypted successfully!
+2024-04-25 04:42:26,521 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:26,521 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:28,402 - INFO - Number of files backing up: 1, Size of backup: 40
+2024-04-25 04:42:28,402 - INFO - Backup completed!
+2024-04-25 04:42:28,403 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:28,403 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:28,408 - INFO - File encrypted successfully!
+2024-04-25 04:42:28,408 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:28,408 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:30,167 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-25 04:42:30,167 - INFO - Backup completed!
+2024-04-25 04:42:30,167 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:30,168 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:30,178 - INFO - File encrypted successfully!
+2024-04-25 04:42:30,178 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:30,178 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:32,016 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-25 04:42:32,016 - INFO - Backup completed!
+2024-04-25 04:42:32,016 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:32,017 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:32,025 - INFO - File encrypted successfully!
+2024-04-25 04:42:32,025 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:32,025 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:33,906 - INFO - Number of files backing up: 1, Size of backup: 41
+2024-04-25 04:42:33,907 - INFO - Backup completed!
+2024-04-25 04:42:33,907 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:33,908 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:33,920 - INFO - File encrypted successfully!
+2024-04-25 04:42:33,920 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:33,920 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:35,704 - INFO - Number of files backing up: 1, Size of backup: 42
+2024-04-25 04:42:35,704 - INFO - Backup completed!
+2024-04-25 04:42:35,704 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:35,705 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:35,712 - INFO - File encrypted successfully!
+2024-04-25 04:42:35,712 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:35,712 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:37,650 - INFO - Number of files backing up: 1, Size of backup: 42
+2024-04-25 04:42:37,650 - INFO - Backup completed!
+2024-04-25 04:42:37,650 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:37,651 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:37,663 - INFO - File encrypted successfully!
+2024-04-25 04:42:37,663 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:37,663 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:39,306 - INFO - Number of files backing up: 1, Size of backup: 42
+2024-04-25 04:42:39,306 - INFO - Backup completed!
+2024-04-25 04:42:39,306 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:39,308 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:39,318 - INFO - File encrypted successfully!
+2024-04-25 04:42:39,318 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:39,318 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:41,272 - INFO - Number of files backing up: 1, Size of backup: 43
+2024-04-25 04:42:41,272 - INFO - Backup completed!
+2024-04-25 04:42:41,272 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:41,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:41,279 - INFO - File encrypted successfully!
+2024-04-25 04:42:41,279 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:41,279 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:43,090 - INFO - Number of files backing up: 1, Size of backup: 43
+2024-04-25 04:42:43,090 - INFO - Backup completed!
+2024-04-25 04:42:43,091 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:43,092 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:43,103 - INFO - File encrypted successfully!
+2024-04-25 04:42:43,103 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:43,103 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:54,203 - INFO - Number of files backing up: 1, Size of backup: 45
+2024-04-25 04:42:54,203 - INFO - Backup completed!
+2024-04-25 04:42:54,204 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:54,204 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:54,210 - INFO - File encrypted successfully!
+2024-04-25 04:42:54,210 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:54,210 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:56,182 - INFO - Number of files backing up: 1, Size of backup: 46
+2024-04-25 04:42:56,182 - INFO - Backup completed!
+2024-04-25 04:42:56,182 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:56,183 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:56,190 - INFO - File encrypted successfully!
+2024-04-25 04:42:56,190 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:56,190 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:58,113 - INFO - Number of files backing up: 1, Size of backup: 46
+2024-04-25 04:42:58,113 - INFO - Backup completed!
+2024-04-25 04:42:58,113 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:58,114 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:58,119 - INFO - File encrypted successfully!
+2024-04-25 04:42:58,119 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:58,119 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:42:59,961 - INFO - Number of files backing up: 1, Size of backup: 47
+2024-04-25 04:42:59,962 - INFO - Backup completed!
+2024-04-25 04:42:59,962 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:42:59,963 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:42:59,968 - INFO - File encrypted successfully!
+2024-04-25 04:42:59,968 - INFO - Uploading file to Google Drive
+2024-04-25 04:42:59,968 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:01,724 - INFO - Number of files backing up: 1, Size of backup: 47
+2024-04-25 04:43:01,724 - INFO - Backup completed!
+2024-04-25 04:43:01,724 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:01,726 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:01,737 - INFO - File encrypted successfully!
+2024-04-25 04:43:01,737 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:01,737 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:03,572 - INFO - Number of files backing up: 1, Size of backup: 47
+2024-04-25 04:43:03,572 - INFO - Backup completed!
+2024-04-25 04:43:03,572 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:03,574 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:03,580 - INFO - File encrypted successfully!
+2024-04-25 04:43:03,580 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:03,580 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:05,467 - INFO - Number of files backing up: 1, Size of backup: 48
+2024-04-25 04:43:05,467 - INFO - Backup completed!
+2024-04-25 04:43:05,468 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:05,469 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:05,476 - INFO - File encrypted successfully!
+2024-04-25 04:43:05,476 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:05,476 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:07,561 - INFO - Number of files backing up: 1, Size of backup: 48
+2024-04-25 04:43:07,561 - INFO - Backup completed!
+2024-04-25 04:43:07,561 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:07,562 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:07,576 - INFO - File encrypted successfully!
+2024-04-25 04:43:07,576 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:07,576 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:09,351 - INFO - Number of files backing up: 1, Size of backup: 49
+2024-04-25 04:43:09,351 - INFO - Backup completed!
+2024-04-25 04:43:09,351 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:09,351 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:09,356 - INFO - File encrypted successfully!
+2024-04-25 04:43:09,356 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:09,356 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:11,438 - INFO - Number of files backing up: 1, Size of backup: 49
+2024-04-25 04:43:11,438 - INFO - Backup completed!
+2024-04-25 04:43:11,438 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:11,439 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:11,444 - INFO - File encrypted successfully!
+2024-04-25 04:43:11,444 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:11,444 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:13,283 - INFO - Number of files backing up: 1, Size of backup: 49
+2024-04-25 04:43:13,284 - INFO - Backup completed!
+2024-04-25 04:43:13,284 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:13,285 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:13,296 - INFO - File encrypted successfully!
+2024-04-25 04:43:13,296 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:13,296 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:15,147 - INFO - Number of files backing up: 1, Size of backup: 50
+2024-04-25 04:43:15,147 - INFO - Backup completed!
+2024-04-25 04:43:15,148 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:15,149 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:15,158 - INFO - File encrypted successfully!
+2024-04-25 04:43:15,158 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:15,158 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:17,037 - INFO - Number of files backing up: 1, Size of backup: 50
+2024-04-25 04:43:17,037 - INFO - Backup completed!
+2024-04-25 04:43:17,037 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:17,039 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:17,048 - INFO - File encrypted successfully!
+2024-04-25 04:43:17,048 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:17,048 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:18,916 - INFO - Number of files backing up: 1, Size of backup: 50
+2024-04-25 04:43:18,916 - INFO - Backup completed!
+2024-04-25 04:43:18,916 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:18,918 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:18,932 - INFO - File encrypted successfully!
+2024-04-25 04:43:18,932 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:18,932 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:20,744 - INFO - Number of files backing up: 1, Size of backup: 51
+2024-04-25 04:43:20,745 - INFO - Backup completed!
+2024-04-25 04:43:20,745 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:20,746 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:20,756 - INFO - File encrypted successfully!
+2024-04-25 04:43:20,756 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:20,756 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:22,605 - INFO - Number of files backing up: 1, Size of backup: 51
+2024-04-25 04:43:22,605 - INFO - Backup completed!
+2024-04-25 04:43:22,606 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:22,607 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:22,614 - INFO - File encrypted successfully!
+2024-04-25 04:43:22,615 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:22,615 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:24,630 - INFO - Number of files backing up: 1, Size of backup: 52
+2024-04-25 04:43:24,630 - INFO - Backup completed!
+2024-04-25 04:43:24,630 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:24,630 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:24,637 - INFO - File encrypted successfully!
+2024-04-25 04:43:24,637 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:24,637 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:26,494 - INFO - Number of files backing up: 1, Size of backup: 52
+2024-04-25 04:43:26,494 - INFO - Backup completed!
+2024-04-25 04:43:26,494 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:26,494 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:26,499 - INFO - File encrypted successfully!
+2024-04-25 04:43:26,499 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:26,499 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:28,048 - INFO - Number of files backing up: 1, Size of backup: 52
+2024-04-25 04:43:28,048 - INFO - Backup completed!
+2024-04-25 04:43:28,048 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:28,049 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:28,056 - INFO - File encrypted successfully!
+2024-04-25 04:43:28,056 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:28,056 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:29,910 - INFO - Number of files backing up: 1, Size of backup: 53
+2024-04-25 04:43:29,910 - INFO - Backup completed!
+2024-04-25 04:43:29,910 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:29,911 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:29,925 - INFO - File encrypted successfully!
+2024-04-25 04:43:29,925 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:29,925 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:31,692 - INFO - Number of files backing up: 1, Size of backup: 53
+2024-04-25 04:43:31,692 - INFO - Backup completed!
+2024-04-25 04:43:31,692 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:31,693 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:31,700 - INFO - File encrypted successfully!
+2024-04-25 04:43:31,700 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:31,700 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:33,562 - INFO - Number of files backing up: 1, Size of backup: 53
+2024-04-25 04:43:33,562 - INFO - Backup completed!
+2024-04-25 04:43:33,562 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:33,563 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:33,574 - INFO - File encrypted successfully!
+2024-04-25 04:43:33,574 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:33,575 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:35,298 - INFO - Number of files backing up: 1, Size of backup: 54
+2024-04-25 04:43:35,298 - INFO - Backup completed!
+2024-04-25 04:43:35,299 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:35,300 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:35,311 - INFO - File encrypted successfully!
+2024-04-25 04:43:35,312 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:35,312 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:37,143 - INFO - Number of files backing up: 1, Size of backup: 54
+2024-04-25 04:43:37,143 - INFO - Backup completed!
+2024-04-25 04:43:37,143 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:37,144 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:37,148 - INFO - File encrypted successfully!
+2024-04-25 04:43:37,148 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:37,148 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:39,272 - INFO - Number of files backing up: 1, Size of backup: 54
+2024-04-25 04:43:39,273 - INFO - Backup completed!
+2024-04-25 04:43:39,273 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:39,274 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:39,281 - INFO - File encrypted successfully!
+2024-04-25 04:43:39,281 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:39,281 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:41,170 - INFO - Number of files backing up: 1, Size of backup: 55
+2024-04-25 04:43:41,171 - INFO - Backup completed!
+2024-04-25 04:43:41,171 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:41,172 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:41,179 - INFO - File encrypted successfully!
+2024-04-25 04:43:41,179 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:41,179 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:51,893 - INFO - Number of files backing up: 1, Size of backup: 57
+2024-04-25 04:43:51,893 - INFO - Backup completed!
+2024-04-25 04:43:51,893 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:51,894 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:51,899 - INFO - File encrypted successfully!
+2024-04-25 04:43:51,900 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:51,900 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:53,613 - INFO - Number of files backing up: 1, Size of backup: 57
+2024-04-25 04:43:53,613 - INFO - Backup completed!
+2024-04-25 04:43:53,613 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:53,615 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:53,623 - INFO - File encrypted successfully!
+2024-04-25 04:43:53,624 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:53,624 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:55,271 - INFO - Number of files backing up: 1, Size of backup: 58
+2024-04-25 04:43:55,271 - INFO - Backup completed!
+2024-04-25 04:43:55,271 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:55,273 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:55,284 - INFO - File encrypted successfully!
+2024-04-25 04:43:55,284 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:55,284 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:56,908 - INFO - Number of files backing up: 1, Size of backup: 58
+2024-04-25 04:43:56,908 - INFO - Backup completed!
+2024-04-25 04:43:56,908 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:56,909 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:56,915 - INFO - File encrypted successfully!
+2024-04-25 04:43:56,915 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:56,915 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:43:58,780 - INFO - Number of files backing up: 1, Size of backup: 58
+2024-04-25 04:43:58,780 - INFO - Backup completed!
+2024-04-25 04:43:58,780 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:43:58,781 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:43:58,792 - INFO - File encrypted successfully!
+2024-04-25 04:43:58,792 - INFO - Uploading file to Google Drive
+2024-04-25 04:43:58,792 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:00,622 - INFO - Number of files backing up: 1, Size of backup: 59
+2024-04-25 04:44:00,622 - INFO - Backup completed!
+2024-04-25 04:44:00,623 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:00,624 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:00,636 - INFO - File encrypted successfully!
+2024-04-25 04:44:00,636 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:00,636 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:02,643 - INFO - Number of files backing up: 1, Size of backup: 59
+2024-04-25 04:44:02,643 - INFO - Backup completed!
+2024-04-25 04:44:02,643 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:02,644 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:02,648 - INFO - File encrypted successfully!
+2024-04-25 04:44:02,648 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:02,648 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:04,497 - INFO - Number of files backing up: 1, Size of backup: 60
+2024-04-25 04:44:04,498 - INFO - Backup completed!
+2024-04-25 04:44:04,498 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:04,499 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:04,506 - INFO - File encrypted successfully!
+2024-04-25 04:44:04,506 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:04,506 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:06,327 - INFO - Number of files backing up: 1, Size of backup: 60
+2024-04-25 04:44:06,327 - INFO - Backup completed!
+2024-04-25 04:44:06,327 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:06,328 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:06,332 - INFO - File encrypted successfully!
+2024-04-25 04:44:06,332 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:06,332 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:08,254 - INFO - Number of files backing up: 1, Size of backup: 60
+2024-04-25 04:44:08,254 - INFO - Backup completed!
+2024-04-25 04:44:08,254 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:08,255 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:08,260 - INFO - File encrypted successfully!
+2024-04-25 04:44:08,260 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:08,260 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:10,104 - INFO - Number of files backing up: 1, Size of backup: 61
+2024-04-25 04:44:10,104 - INFO - Backup completed!
+2024-04-25 04:44:10,104 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:10,106 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:10,116 - INFO - File encrypted successfully!
+2024-04-25 04:44:10,116 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:10,116 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:11,941 - INFO - Number of files backing up: 1, Size of backup: 61
+2024-04-25 04:44:11,941 - INFO - Backup completed!
+2024-04-25 04:44:11,941 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:11,942 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:11,955 - INFO - File encrypted successfully!
+2024-04-25 04:44:11,955 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:11,955 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:13,863 - INFO - Number of files backing up: 1, Size of backup: 61
+2024-04-25 04:44:13,863 - INFO - Backup completed!
+2024-04-25 04:44:13,863 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:13,865 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:13,876 - INFO - File encrypted successfully!
+2024-04-25 04:44:13,876 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:13,876 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:15,737 - INFO - Number of files backing up: 1, Size of backup: 62
+2024-04-25 04:44:15,737 - INFO - Backup completed!
+2024-04-25 04:44:15,737 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:15,738 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:15,742 - INFO - File encrypted successfully!
+2024-04-25 04:44:15,742 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:15,742 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:17,697 - INFO - Number of files backing up: 1, Size of backup: 62
+2024-04-25 04:44:17,697 - INFO - Backup completed!
+2024-04-25 04:44:17,697 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:17,699 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:17,705 - INFO - File encrypted successfully!
+2024-04-25 04:44:17,706 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:17,706 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:19,541 - INFO - Number of files backing up: 1, Size of backup: 63
+2024-04-25 04:44:19,541 - INFO - Backup completed!
+2024-04-25 04:44:19,541 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:19,543 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:19,554 - INFO - File encrypted successfully!
+2024-04-25 04:44:19,554 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:19,554 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:21,488 - INFO - Number of files backing up: 1, Size of backup: 63
+2024-04-25 04:44:21,488 - INFO - Backup completed!
+2024-04-25 04:44:21,489 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:21,490 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:21,495 - INFO - File encrypted successfully!
+2024-04-25 04:44:21,495 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:21,495 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:23,667 - INFO - Number of files backing up: 1, Size of backup: 63
+2024-04-25 04:44:23,667 - INFO - Backup completed!
+2024-04-25 04:44:23,667 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:23,667 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:23,675 - INFO - File encrypted successfully!
+2024-04-25 04:44:23,676 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:23,676 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:25,204 - INFO - Number of files backing up: 1, Size of backup: 64
+2024-04-25 04:44:25,204 - INFO - Backup completed!
+2024-04-25 04:44:25,205 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:25,206 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:25,216 - INFO - File encrypted successfully!
+2024-04-25 04:44:25,216 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:25,216 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:27,078 - INFO - Number of files backing up: 1, Size of backup: 64
+2024-04-25 04:44:27,078 - INFO - Backup completed!
+2024-04-25 04:44:27,078 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:27,079 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:27,083 - INFO - File encrypted successfully!
+2024-04-25 04:44:27,083 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:27,083 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:33,672 - INFO - Number of files backing up: 1, Size of backup: 65
+2024-04-25 04:44:33,673 - INFO - Backup completed!
+2024-04-25 04:44:33,673 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:33,674 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:33,679 - INFO - File encrypted successfully!
+2024-04-25 04:44:33,679 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:33,679 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:35,285 - INFO - Number of files backing up: 1, Size of backup: 66
+2024-04-25 04:44:35,285 - INFO - Backup completed!
+2024-04-25 04:44:35,285 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:35,286 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:35,298 - INFO - File encrypted successfully!
+2024-04-25 04:44:35,299 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:35,299 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:37,261 - INFO - Number of files backing up: 1, Size of backup: 66
+2024-04-25 04:44:37,261 - INFO - Backup completed!
+2024-04-25 04:44:37,262 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:37,263 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:37,268 - INFO - File encrypted successfully!
+2024-04-25 04:44:37,268 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:37,268 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:39,061 - INFO - Number of files backing up: 1, Size of backup: 66
+2024-04-25 04:44:39,061 - INFO - Backup completed!
+2024-04-25 04:44:39,061 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:39,063 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:39,078 - INFO - File encrypted successfully!
+2024-04-25 04:44:39,078 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:39,078 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:40,693 - INFO - Number of files backing up: 1, Size of backup: 67
+2024-04-25 04:44:40,693 - INFO - Backup completed!
+2024-04-25 04:44:40,693 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:40,694 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:40,698 - INFO - File encrypted successfully!
+2024-04-25 04:44:40,698 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:40,698 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:42,494 - INFO - Number of files backing up: 1, Size of backup: 67
+2024-04-25 04:44:42,494 - INFO - Backup completed!
+2024-04-25 04:44:42,494 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:42,495 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:42,499 - INFO - File encrypted successfully!
+2024-04-25 04:44:42,499 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:42,499 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:44,423 - INFO - Number of files backing up: 1, Size of backup: 68
+2024-04-25 04:44:44,423 - INFO - Backup completed!
+2024-04-25 04:44:44,423 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:44,424 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:44,432 - INFO - File encrypted successfully!
+2024-04-25 04:44:44,432 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:44,432 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:46,418 - INFO - Number of files backing up: 1, Size of backup: 68
+2024-04-25 04:44:46,418 - INFO - Backup completed!
+2024-04-25 04:44:46,418 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:46,419 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:46,425 - INFO - File encrypted successfully!
+2024-04-25 04:44:46,425 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:46,425 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:48,317 - INFO - Number of files backing up: 1, Size of backup: 68
+2024-04-25 04:44:48,317 - INFO - Backup completed!
+2024-04-25 04:44:48,317 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:48,319 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:48,329 - INFO - File encrypted successfully!
+2024-04-25 04:44:48,329 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:48,329 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:49,829 - INFO - Number of files backing up: 1, Size of backup: 69
+2024-04-25 04:44:49,829 - INFO - Backup completed!
+2024-04-25 04:44:49,829 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:49,831 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:49,845 - INFO - File encrypted successfully!
+2024-04-25 04:44:49,845 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:49,845 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:51,697 - INFO - Number of files backing up: 1, Size of backup: 69
+2024-04-25 04:44:51,697 - INFO - Backup completed!
+2024-04-25 04:44:51,697 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:51,697 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:51,704 - INFO - File encrypted successfully!
+2024-04-25 04:44:51,704 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:51,704 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:53,436 - INFO - Number of files backing up: 1, Size of backup: 69
+2024-04-25 04:44:53,437 - INFO - Backup completed!
+2024-04-25 04:44:53,437 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:53,437 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:53,441 - INFO - File encrypted successfully!
+2024-04-25 04:44:53,442 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:53,442 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:55,193 - INFO - Number of files backing up: 1, Size of backup: 70
+2024-04-25 04:44:55,193 - INFO - Backup completed!
+2024-04-25 04:44:55,193 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:55,195 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:55,205 - INFO - File encrypted successfully!
+2024-04-25 04:44:55,206 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:55,206 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:57,019 - INFO - Number of files backing up: 1, Size of backup: 70
+2024-04-25 04:44:57,020 - INFO - Backup completed!
+2024-04-25 04:44:57,020 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:57,020 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:57,027 - INFO - File encrypted successfully!
+2024-04-25 04:44:57,027 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:57,027 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:44:58,863 - INFO - Number of files backing up: 1, Size of backup: 70
+2024-04-25 04:44:58,863 - INFO - Backup completed!
+2024-04-25 04:44:58,863 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:44:58,863 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:44:58,867 - INFO - File encrypted successfully!
+2024-04-25 04:44:58,868 - INFO - Uploading file to Google Drive
+2024-04-25 04:44:58,868 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:00,823 - INFO - Number of files backing up: 1, Size of backup: 71
+2024-04-25 04:45:00,823 - INFO - Backup completed!
+2024-04-25 04:45:00,823 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:00,823 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:00,829 - INFO - File encrypted successfully!
+2024-04-25 04:45:00,829 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:00,829 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:02,788 - INFO - Number of files backing up: 1, Size of backup: 71
+2024-04-25 04:45:02,789 - INFO - Backup completed!
+2024-04-25 04:45:02,789 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:02,789 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:02,794 - INFO - File encrypted successfully!
+2024-04-25 04:45:02,794 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:02,794 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:04,584 - INFO - Number of files backing up: 1, Size of backup: 72
+2024-04-25 04:45:04,584 - INFO - Backup completed!
+2024-04-25 04:45:04,584 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:04,585 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:04,596 - INFO - File encrypted successfully!
+2024-04-25 04:45:04,596 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:04,596 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:06,450 - INFO - Number of files backing up: 1, Size of backup: 72
+2024-04-25 04:45:06,450 - INFO - Backup completed!
+2024-04-25 04:45:06,450 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:06,451 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:06,457 - INFO - File encrypted successfully!
+2024-04-25 04:45:06,457 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:06,457 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:08,314 - INFO - Number of files backing up: 1, Size of backup: 72
+2024-04-25 04:45:08,314 - INFO - Backup completed!
+2024-04-25 04:45:08,314 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:08,314 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:08,321 - INFO - File encrypted successfully!
+2024-04-25 04:45:08,321 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:08,321 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:18,312 - INFO - Number of files backing up: 1, Size of backup: 74
+2024-04-25 04:45:18,312 - INFO - Backup completed!
+2024-04-25 04:45:18,313 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:18,314 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:18,324 - INFO - File encrypted successfully!
+2024-04-25 04:45:18,324 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:18,324 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:20,067 - INFO - Number of files backing up: 1, Size of backup: 75
+2024-04-25 04:45:20,067 - INFO - Backup completed!
+2024-04-25 04:45:20,067 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:20,069 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:20,082 - INFO - File encrypted successfully!
+2024-04-25 04:45:20,082 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:20,082 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:22,804 - INFO - Number of files backing up: 1, Size of backup: 75
+2024-04-25 04:45:22,804 - INFO - Backup completed!
+2024-04-25 04:45:22,804 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:22,805 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:22,811 - INFO - File encrypted successfully!
+2024-04-25 04:45:22,811 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:22,811 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:24,878 - INFO - Number of files backing up: 1, Size of backup: 76
+2024-04-25 04:45:24,878 - INFO - Backup completed!
+2024-04-25 04:45:24,878 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:24,880 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:24,891 - INFO - File encrypted successfully!
+2024-04-25 04:45:24,891 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:24,891 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:26,686 - INFO - Number of files backing up: 1, Size of backup: 76
+2024-04-25 04:45:26,686 - INFO - Backup completed!
+2024-04-25 04:45:26,686 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:26,687 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:26,691 - INFO - File encrypted successfully!
+2024-04-25 04:45:26,691 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:26,691 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:28,501 - INFO - Number of files backing up: 1, Size of backup: 76
+2024-04-25 04:45:28,501 - INFO - Backup completed!
+2024-04-25 04:45:28,501 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:28,502 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:28,507 - INFO - File encrypted successfully!
+2024-04-25 04:45:28,507 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:28,507 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:30,305 - INFO - Number of files backing up: 1, Size of backup: 77
+2024-04-25 04:45:30,306 - INFO - Backup completed!
+2024-04-25 04:45:30,306 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:30,307 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:30,311 - INFO - File encrypted successfully!
+2024-04-25 04:45:30,311 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:30,311 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:32,113 - INFO - Number of files backing up: 1, Size of backup: 77
+2024-04-25 04:45:32,113 - INFO - Backup completed!
+2024-04-25 04:45:32,113 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:32,114 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:32,127 - INFO - File encrypted successfully!
+2024-04-25 04:45:32,127 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:32,127 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:33,847 - INFO - Number of files backing up: 1, Size of backup: 77
+2024-04-25 04:45:33,847 - INFO - Backup completed!
+2024-04-25 04:45:33,847 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:33,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:33,853 - INFO - File encrypted successfully!
+2024-04-25 04:45:33,854 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:33,854 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:35,600 - INFO - Number of files backing up: 1, Size of backup: 78
+2024-04-25 04:45:35,600 - INFO - Backup completed!
+2024-04-25 04:45:35,600 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:35,601 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:35,608 - INFO - File encrypted successfully!
+2024-04-25 04:45:35,608 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:35,608 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:37,268 - INFO - Number of files backing up: 1, Size of backup: 78
+2024-04-25 04:45:37,268 - INFO - Backup completed!
+2024-04-25 04:45:37,268 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:37,269 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:37,274 - INFO - File encrypted successfully!
+2024-04-25 04:45:37,274 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:37,274 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:39,282 - INFO - Number of files backing up: 1, Size of backup: 78
+2024-04-25 04:45:39,282 - INFO - Backup completed!
+2024-04-25 04:45:39,282 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:39,283 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:39,287 - INFO - File encrypted successfully!
+2024-04-25 04:45:39,287 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:39,287 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:41,365 - INFO - Number of files backing up: 1, Size of backup: 79
+2024-04-25 04:45:41,365 - INFO - Backup completed!
+2024-04-25 04:45:41,365 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:41,366 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:41,372 - INFO - File encrypted successfully!
+2024-04-25 04:45:41,373 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:41,373 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:43,131 - INFO - Number of files backing up: 1, Size of backup: 79
+2024-04-25 04:45:43,131 - INFO - Backup completed!
+2024-04-25 04:45:43,131 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:43,132 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:43,138 - INFO - File encrypted successfully!
+2024-04-25 04:45:43,138 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:43,138 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:45,052 - INFO - Number of files backing up: 1, Size of backup: 80
+2024-04-25 04:45:45,052 - INFO - Backup completed!
+2024-04-25 04:45:45,052 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:45,053 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:45,064 - INFO - File encrypted successfully!
+2024-04-25 04:45:45,064 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:45,064 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:46,997 - INFO - Number of files backing up: 1, Size of backup: 80
+2024-04-25 04:45:46,997 - INFO - Backup completed!
+2024-04-25 04:45:46,997 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:46,999 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:47,003 - INFO - File encrypted successfully!
+2024-04-25 04:45:47,003 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:47,003 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:48,843 - INFO - Number of files backing up: 1, Size of backup: 80
+2024-04-25 04:45:48,843 - INFO - Backup completed!
+2024-04-25 04:45:48,843 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:48,845 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:48,854 - INFO - File encrypted successfully!
+2024-04-25 04:45:48,854 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:48,854 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:50,688 - INFO - Number of files backing up: 1, Size of backup: 81
+2024-04-25 04:45:50,688 - INFO - Backup completed!
+2024-04-25 04:45:50,688 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:50,689 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:50,693 - INFO - File encrypted successfully!
+2024-04-25 04:45:50,693 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:50,693 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:52,323 - INFO - Number of files backing up: 1, Size of backup: 81
+2024-04-25 04:45:52,324 - INFO - Backup completed!
+2024-04-25 04:45:52,324 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:52,325 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:52,331 - INFO - File encrypted successfully!
+2024-04-25 04:45:52,331 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:52,331 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:54,067 - INFO - Number of files backing up: 1, Size of backup: 81
+2024-04-25 04:45:54,067 - INFO - Backup completed!
+2024-04-25 04:45:54,067 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:54,067 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:54,073 - INFO - File encrypted successfully!
+2024-04-25 04:45:54,073 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:54,073 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:55,890 - INFO - Number of files backing up: 1, Size of backup: 82
+2024-04-25 04:45:55,891 - INFO - Backup completed!
+2024-04-25 04:45:55,891 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:55,891 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:55,896 - INFO - File encrypted successfully!
+2024-04-25 04:45:55,896 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:55,897 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:45:57,685 - INFO - Number of files backing up: 1, Size of backup: 82
+2024-04-25 04:45:57,685 - INFO - Backup completed!
+2024-04-25 04:45:57,685 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:45:57,686 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:45:57,692 - INFO - File encrypted successfully!
+2024-04-25 04:45:57,692 - INFO - Uploading file to Google Drive
+2024-04-25 04:45:57,692 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:09,323 - INFO - Number of files backing up: 1, Size of backup: 84
+2024-04-25 04:46:09,323 - INFO - Backup completed!
+2024-04-25 04:46:09,323 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:09,324 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:09,329 - INFO - File encrypted successfully!
+2024-04-25 04:46:09,329 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:09,330 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:11,195 - INFO - Number of files backing up: 1, Size of backup: 85
+2024-04-25 04:46:11,195 - INFO - Backup completed!
+2024-04-25 04:46:11,195 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:11,196 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:11,207 - INFO - File encrypted successfully!
+2024-04-25 04:46:11,207 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:11,207 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:12,805 - INFO - Number of files backing up: 1, Size of backup: 85
+2024-04-25 04:46:12,805 - INFO - Backup completed!
+2024-04-25 04:46:12,805 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:12,806 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:12,813 - INFO - File encrypted successfully!
+2024-04-25 04:46:12,813 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:12,813 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:14,698 - INFO - Number of files backing up: 1, Size of backup: 86
+2024-04-25 04:46:14,698 - INFO - Backup completed!
+2024-04-25 04:46:14,698 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:14,700 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:14,713 - INFO - File encrypted successfully!
+2024-04-25 04:46:14,713 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:14,713 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:16,594 - INFO - Number of files backing up: 1, Size of backup: 86
+2024-04-25 04:46:16,595 - INFO - Backup completed!
+2024-04-25 04:46:16,595 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:16,596 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:16,601 - INFO - File encrypted successfully!
+2024-04-25 04:46:16,601 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:16,601 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:18,437 - INFO - Number of files backing up: 1, Size of backup: 86
+2024-04-25 04:46:18,437 - INFO - Backup completed!
+2024-04-25 04:46:18,438 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:18,439 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:18,449 - INFO - File encrypted successfully!
+2024-04-25 04:46:18,449 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:18,449 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:20,266 - INFO - Number of files backing up: 1, Size of backup: 87
+2024-04-25 04:46:20,266 - INFO - Backup completed!
+2024-04-25 04:46:20,266 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:20,268 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:20,279 - INFO - File encrypted successfully!
+2024-04-25 04:46:20,279 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:20,279 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:22,102 - INFO - Number of files backing up: 1, Size of backup: 87
+2024-04-25 04:46:22,102 - INFO - Backup completed!
+2024-04-25 04:46:22,102 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:22,103 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:22,109 - INFO - File encrypted successfully!
+2024-04-25 04:46:22,109 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:22,109 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:24,005 - INFO - Number of files backing up: 1, Size of backup: 87
+2024-04-25 04:46:24,005 - INFO - Backup completed!
+2024-04-25 04:46:24,006 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:24,006 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:24,013 - INFO - File encrypted successfully!
+2024-04-25 04:46:24,013 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:24,013 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:25,912 - INFO - Number of files backing up: 1, Size of backup: 88
+2024-04-25 04:46:25,912 - INFO - Backup completed!
+2024-04-25 04:46:25,912 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:25,912 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:25,919 - INFO - File encrypted successfully!
+2024-04-25 04:46:25,919 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:25,919 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:27,755 - INFO - Number of files backing up: 1, Size of backup: 88
+2024-04-25 04:46:27,755 - INFO - Backup completed!
+2024-04-25 04:46:27,755 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:27,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:27,761 - INFO - File encrypted successfully!
+2024-04-25 04:46:27,761 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:27,761 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:29,600 - INFO - Number of files backing up: 1, Size of backup: 89
+2024-04-25 04:46:29,600 - INFO - Backup completed!
+2024-04-25 04:46:29,600 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:29,601 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:29,612 - INFO - File encrypted successfully!
+2024-04-25 04:46:29,612 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:29,612 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:31,522 - INFO - Number of files backing up: 1, Size of backup: 89
+2024-04-25 04:46:31,522 - INFO - Backup completed!
+2024-04-25 04:46:31,522 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:31,523 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:31,527 - INFO - File encrypted successfully!
+2024-04-25 04:46:31,527 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:31,527 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:33,051 - INFO - Number of files backing up: 1, Size of backup: 89
+2024-04-25 04:46:33,051 - INFO - Backup completed!
+2024-04-25 04:46:33,051 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:33,051 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:33,055 - INFO - File encrypted successfully!
+2024-04-25 04:46:33,055 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:33,055 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:34,796 - INFO - Number of files backing up: 1, Size of backup: 90
+2024-04-25 04:46:34,796 - INFO - Backup completed!
+2024-04-25 04:46:34,796 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:34,798 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:34,808 - INFO - File encrypted successfully!
+2024-04-25 04:46:34,808 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:34,808 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:36,399 - INFO - Number of files backing up: 1, Size of backup: 90
+2024-04-25 04:46:36,399 - INFO - Backup completed!
+2024-04-25 04:46:36,399 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:36,401 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:36,409 - INFO - File encrypted successfully!
+2024-04-25 04:46:36,409 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:36,409 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:38,215 - INFO - Number of files backing up: 1, Size of backup: 90
+2024-04-25 04:46:38,215 - INFO - Backup completed!
+2024-04-25 04:46:39,325 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:39,326 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:39,336 - INFO - File encrypted successfully!
+2024-04-25 04:46:39,336 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:39,336 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:41,164 - INFO - Number of files backing up: 1, Size of backup: 91
+2024-04-25 04:46:41,164 - INFO - Backup completed!
+2024-04-25 04:46:41,164 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:41,166 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:41,173 - INFO - File encrypted successfully!
+2024-04-25 04:46:41,173 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:41,173 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:43,153 - INFO - Number of files backing up: 1, Size of backup: 91
+2024-04-25 04:46:43,153 - INFO - Backup completed!
+2024-04-25 04:46:44,325 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:44,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:44,335 - INFO - File encrypted successfully!
+2024-04-25 04:46:44,335 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:44,335 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:46,805 - INFO - Number of files backing up: 1, Size of backup: 92
+2024-04-25 04:46:46,805 - INFO - Backup completed!
+2024-04-25 04:46:46,805 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:46,806 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:46,812 - INFO - File encrypted successfully!
+2024-04-25 04:46:46,812 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:46,812 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:48,592 - INFO - Number of files backing up: 1, Size of backup: 92
+2024-04-25 04:46:48,592 - INFO - Backup completed!
+2024-04-25 04:46:49,326 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:49,327 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:49,340 - INFO - File encrypted successfully!
+2024-04-25 04:46:49,340 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:49,340 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:51,264 - INFO - Number of files backing up: 1, Size of backup: 93
+2024-04-25 04:46:51,264 - INFO - Backup completed!
+2024-04-25 04:46:51,264 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:51,265 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:51,279 - INFO - File encrypted successfully!
+2024-04-25 04:46:51,279 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:51,279 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:53,070 - INFO - Number of files backing up: 1, Size of backup: 93
+2024-04-25 04:46:53,070 - INFO - Backup completed!
+2024-04-25 04:46:54,326 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:54,328 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:54,336 - INFO - File encrypted successfully!
+2024-04-25 04:46:54,336 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:54,336 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:56,211 - INFO - Number of files backing up: 1, Size of backup: 94
+2024-04-25 04:46:56,211 - INFO - Backup completed!
+2024-04-25 04:46:56,211 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:56,212 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:56,223 - INFO - File encrypted successfully!
+2024-04-25 04:46:56,223 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:56,223 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:46:57,896 - INFO - Number of files backing up: 1, Size of backup: 94
+2024-04-25 04:46:57,896 - INFO - Backup completed!
+2024-04-25 04:46:59,326 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:46:59,328 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:46:59,333 - INFO - File encrypted successfully!
+2024-04-25 04:46:59,333 - INFO - Uploading file to Google Drive
+2024-04-25 04:46:59,333 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:01,126 - INFO - Number of files backing up: 1, Size of backup: 95
+2024-04-25 04:47:01,126 - INFO - Backup completed!
+2024-04-25 04:47:01,126 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:01,127 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:01,134 - INFO - File encrypted successfully!
+2024-04-25 04:47:01,134 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:01,134 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:02,958 - INFO - Number of files backing up: 1, Size of backup: 95
+2024-04-25 04:47:02,958 - INFO - Backup completed!
+2024-04-25 04:47:04,327 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:04,328 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:04,336 - INFO - File encrypted successfully!
+2024-04-25 04:47:04,337 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:04,337 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:06,676 - INFO - Number of files backing up: 1, Size of backup: 96
+2024-04-25 04:47:06,676 - INFO - Backup completed!
+2024-04-25 04:47:06,676 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:06,676 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:06,682 - INFO - File encrypted successfully!
+2024-04-25 04:47:06,682 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:06,682 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:08,424 - INFO - Number of files backing up: 1, Size of backup: 96
+2024-04-25 04:47:08,424 - INFO - Backup completed!
+2024-04-25 04:47:09,327 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:09,328 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:09,333 - INFO - File encrypted successfully!
+2024-04-25 04:47:09,334 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:09,334 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:11,173 - INFO - Number of files backing up: 1, Size of backup: 97
+2024-04-25 04:47:11,173 - INFO - Backup completed!
+2024-04-25 04:47:11,174 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:11,174 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:11,178 - INFO - File encrypted successfully!
+2024-04-25 04:47:11,178 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:11,178 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:12,949 - INFO - Number of files backing up: 1, Size of backup: 97
+2024-04-25 04:47:12,949 - INFO - Backup completed!
+2024-04-25 04:47:14,327 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:14,329 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:14,335 - INFO - File encrypted successfully!
+2024-04-25 04:47:14,335 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:14,335 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:16,197 - INFO - Number of files backing up: 1, Size of backup: 98
+2024-04-25 04:47:16,197 - INFO - Backup completed!
+2024-04-25 04:47:16,197 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:16,198 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:16,206 - INFO - File encrypted successfully!
+2024-04-25 04:47:16,206 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:16,206 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:18,446 - INFO - Number of files backing up: 1, Size of backup: 98
+2024-04-25 04:47:18,446 - INFO - Backup completed!
+2024-04-25 04:47:19,327 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:19,329 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:19,336 - INFO - File encrypted successfully!
+2024-04-25 04:47:19,336 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:19,336 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:29,880 - INFO - Number of files backing up: 1, Size of backup: 100
+2024-04-25 04:47:29,881 - INFO - Backup completed!
+2024-04-25 04:47:29,881 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:29,881 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:29,889 - INFO - File encrypted successfully!
+2024-04-25 04:47:29,889 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:29,889 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:31,635 - INFO - Number of files backing up: 1, Size of backup: 100
+2024-04-25 04:47:31,636 - INFO - Backup completed!
+2024-04-25 04:47:31,636 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:31,637 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:31,647 - INFO - File encrypted successfully!
+2024-04-25 04:47:31,647 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:31,647 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:33,493 - INFO - Number of files backing up: 1, Size of backup: 100
+2024-04-25 04:47:33,493 - INFO - Backup completed!
+2024-04-25 04:47:33,493 - INFO - Event: IN_MODIFY Path: /home/maggy/SE/project_3/SE_Project_3/src/phoenix/Observation/watchDir/watch2.txt
+2024-04-25 04:47:33,494 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-04-25 04:47:33,506 - INFO - File encrypted successfully!
+2024-04-25 04:47:33,506 - INFO - Uploading file to Google Drive
+2024-04-25 04:47:33,506 - INFO - Uploading file to Google Drive: .phnx/encrypted/-home-maggy-SE-project_3-SE_Project_3-src-phoenix-Observation-watchDir-watch2.txt.tar.gz.gpg
+2024-04-25 04:47:35,292 - INFO - Number of files backing up: 1, Size of backup: 100
+2024-04-25 04:47:35,292 - INFO - Backup completed!
