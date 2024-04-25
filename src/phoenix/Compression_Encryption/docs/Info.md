@@ -12,7 +12,7 @@
 ```
 in the directory where the script is run.  
 > [!WARNING]  
-> When compressing a folder, use `folder_name` to add the folder with its contents to the compressed file or `folder_name/` to compress only its contents.
+> When compressing a folder, use `folder_name, False` to indicate a folder.
 
 ## Encryption
 - A strategy design pattern is used to switch between encryption algorithms. The `IEncryptionStrategy` interface is to be implemented by encryption strategies. It contains `encrypt` and `decrypt` methods along with an initialization for output directories, as mentioned in the compression section.

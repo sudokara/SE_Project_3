@@ -2,7 +2,6 @@
 
 class SingletonMeta {
     _instances
-    _lock
     __call__(cls, *args, **kwargs)
 }
 
