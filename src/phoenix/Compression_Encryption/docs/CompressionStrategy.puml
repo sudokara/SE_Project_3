@@ -20,8 +20,6 @@ class CEManager {
     setCompressionStrategy(strategy: ICompressionStrategy)
     compress(file_path)
     decompress(file_path)
-    encrypt(file_path)
-    decrypt(file_path)
 }
 
 CEManager o-- "1" ICompressionStrategy
