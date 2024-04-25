@@ -15,11 +15,11 @@ def upload():
     if request.method != 'POST':
         return 'Invalid request method'
 
-    data = request.data
+    data = request.json
     
     with open("../config.json") as f:
         config = json.load(f)
-    
+        
     if config['cloud-provider'] == "gdrive":
         uploadDownloadStrategy = GoogleDrive(config['gdrive-folder-id'])
     else:

@@ -11,6 +11,7 @@ from phoenix.Observation.WatchDirStructure.WatchDirLeaf import WatchDirLeaf
 from phoenix.utils.Broker import Broker
 from phoenix.utils.Logger import logger
 import requests
+from datetime import datetime
 
 class EventHandler(pyinotify.ProcessEvent):
 
@@ -21,12 +22,26 @@ class EventHandler(pyinotify.ProcessEvent):
 
         logger.info(f"Event: {maskname} Path: {absolutePath}")
 
+        # data = {
+        #     'absolutePath': absolutePath,
+        #     'is_file': os.path.isfile(absolutePath),
+        # }
+        # try:
+        #     response = requests.post('http://localhost:5000/encrypt-compress', data=data)
+        # except Exception as e:
+        #     print(f"Exception: {e}")
+
+        url = "http://localhost:5000/encrypt-compress"
+        headers = {
+            "content-type": "application/json"
+        }
         data = {
-            'absolutePath': absolutePath,
-            'is_file': not os.path.isfile(absolutePath),
+            "absolutePath": absolutePath,
+            "is_file": os.path.isfile(absolutePath)
         }
 
-        response = requests.post('http://127.0.0.1:5000/encrypt-compress', data=data)
+        response = requests.post(url, headers=headers, json=data)
+
 
         if os.path.isdir(absolutePath):
 
@@ -49,6 +64,9 @@ class EventHandler(pyinotify.ProcessEvent):
 
         logger.info(f"Number of files backing up: {num_files_backing_up}, Size of backup: {size_backing_up}")
         logger.info(f"Backup completed!")
+
+        with open("../../../microservice_benchmarking/backup_time.txt", "a") as f:
+            f.write(f"{datetime.now()}\n")
         
 
     def process_IN_MOVED_FROM(self, event):

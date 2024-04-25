@@ -10,6 +10,7 @@ import os
 import io
 import pandas as pd
 from phoenix.utils.Logger import logger
+from datetime import datetime
 
 # PATH_TO_CREDENTIALS = '/home/prakhar/Desktop/3-2/Software Engineering/Projects/SE_Project_3/src/Uploader/credentials.json'
 
@@ -30,6 +31,12 @@ class GoogleDrive(UploadDownloadStrategy):
         if file_path is None:
             raise ValueError("File path cannot be None")
         logger.info(f"Uploading file to Google Drive: {file_path}")
+
+        
+        with open("../../../microservice_benchmarking/upload_time.txt", "a") as f:
+            f.write(f"{datetime.now()}\n")
+
+
         self._gdrive_file_upload(file_path, self._folder_id)
 
     def download(self, file_path: str, file_id) -> None:
@@ -39,6 +46,7 @@ class GoogleDrive(UploadDownloadStrategy):
             raise ValueError("File ID cannot be None")
         logger.info(f"Downloading file from Google Drive: {file_path}")
         self._gdrive_file_download(file_path, file_id)
+
 
     def _gdrive_file_upload(self, filename, gdrive_folder_id):
         # File to upload

@@ -22,6 +22,8 @@ def encrypt_compress():
         broker.backup(data.get('absolutePath'), True if data.get('is_file') else False)
     except Exception as e:
         print("Exception: ", e)
+
+    return "ok"
             
 if __name__ == '__main__':
     app.run(port=5000, debug=True)

@@ -17,29 +17,45 @@ import requests
 
 class Broker(metaclass=SingletonMeta):
     def __init__(self, keyStrategy=GPGKeyStrategy(os.path.expanduser('~/.gnupg')), compressionStrategy=TarCompressionStrategy(), encryptionStrategy=GPGEncryptionStrategy()) -> None:
-        # if uploadDownloadStrategy is None:
-        #     raise ValueError("UploadDownloadStrategy cannot be None")
         
         self.__keyManager = KeyManager(keyStrategy)
         self.__ceManager = CEManager(
             compressionStrategy, encryptionStrategy, self.__keyManager)
-        
-        # self.__uploadDownloadStrategy = uploadDownloadStrategy
-        # self.__uploader = Uploader(self.__uploadDownloadStrategy)
 
     def backup(self, file_path, is_file):
         compressed_path = self.__ceManager.compress(file_path, is_file)
         if is_file:
             encrypted_path = self.__ceManager.encrypt(
             compressed_path, self.__keyManager.get_key(), is_file)
-            # self.upload(encrypted_path)
-            res = requests.post('http://localhost:5001/upload', data={'encryptedPath': encrypted_path})
+
+            encrypted_path = f"../Compression_Encryption/{encrypted_path}"
+
+            url = "http://localhost:5001/upload"
+            headers = {
+                "content-type": "application/json"
+            }
+            data = {
+                "encryptedPath": encrypted_path
+            }
+
+            response = requests.post(url, headers=headers, json=data)
+
         else:
             for p in compressed_path:
                 encrypted_path = self.__ceManager.encrypt(
                     p, self.__keyManager.get_key(), is_file)
-                # self.upload(encrypted_path)
-                res = requests.post('http://localhost:5001/upload', data={'encryptedPath': encrypted_path})
+                
+                encrypted_path = f"../Compression_Encryption/{encrypted_path}"
+
+                url = "http://localhost:5001/upload"
+                headers = {
+                    "content-type": "application/json"
+                }
+                data = {
+                    "encryptedPath": encrypted_path
+                }
+
+                response = requests.post(url, headers=headers, json=data)
                 
 
     def set_key_strategy(self, keyStrategy):
